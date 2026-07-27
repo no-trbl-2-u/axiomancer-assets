@@ -1,0 +1,378 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Axiomancer: Table Edition — asset sitemap</title>
+<style>
+  :root { color-scheme: light dark; --bg:#f7f4ec; --fg:#1c1a17; --mut:#6b645a; --line:#d8d0c0; --card:#fff; --acc:#7a2e2e; }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg:#16150f; --fg:#ece6d8; --mut:#9a9184; --line:#332f26; --card:#201e17; --acc:#d98b8b; }
+  }
+  * { box-sizing: border-box; }
+  body { margin:0; padding:2rem 1.25rem 5rem; background:var(--bg); color:var(--fg);
+         font:15px/1.6 Georgia, 'Palatino Linotype', serif; }
+  .wrap { max-width: 1180px; margin: 0 auto; }
+  h1 { font-size: 1.9rem; margin:0 0 .3rem; letter-spacing:.01em; }
+  .sub { color:var(--mut); margin:0 0 1.5rem; }
+  h2 { font-size:1.15rem; margin:2.5rem 0 .2rem; padding-bottom:.35rem; border-bottom:2px solid var(--line); }
+  .count { color:var(--mut); font-weight:normal; font-size:.85rem; }
+  .blurb { color:var(--mut); margin:.4rem 0 1rem; max-width:70ch; }
+  .grid { display:grid; gap:1rem; grid-template-columns:repeat(auto-fill,minmax(290px,1fr)); }
+  .card { display:flex; flex-direction:column; background:var(--card); border:1px solid var(--line);
+          border-radius:8px; overflow:hidden; text-decoration:none; color:inherit; transition:transform .12s; }
+  .card:hover { transform:translateY(-2px); border-color:var(--acc); }
+  .card img { width:100%; display:block; background:#fff; border-bottom:1px solid var(--line); }
+  .meta { padding:.7rem .85rem; display:flex; flex-direction:column; gap:.28rem; font-size:.82rem; }
+  .meta strong { font-size:.95rem; }
+  code { font-family:Consolas,ui-monospace,monospace; font-size:.76rem; color:var(--mut); word-break:break-all; }
+  .meta span { color:var(--mut); }
+  .warn { color:var(--acc) !important; }
+  .note { font-style:italic; }
+  .box { border:1px solid var(--line); border-left:3px solid var(--acc); background:var(--card);
+         padding:.9rem 1.1rem; border-radius:6px; margin:1.2rem 0; }
+  .box p { margin:.4rem 0; }
+  footer { margin-top:3.5rem; padding-top:1.2rem; border-top:1px solid var(--line); color:var(--mut); font-size:.85rem; }
+  a.plain { color:var(--acc); }
+  table { border-collapse:collapse; font-size:.85rem; margin:.6rem 0; }
+  td, th { border:1px solid var(--line); padding:.3rem .6rem; text-align:left; }
+</style>
+</head>
+<body>
+<div class="wrap">
+<h1>Axiomancer: Table Edition — assets</h1>
+<p class="sub">Rendered card art for virtual tabletops. 25 sheets · 305 cards · generated 2026-07-27.</p>
+
+<div class="box">
+  <p><strong>What this is.</strong> Every virtual tabletop imports a deck the same way: one grid image plus its column and row count, sliced in reading order. These are those images, with the numbers each one needs.</p>
+  <p><strong>Filenames carry a content hash</strong> (<code>deck-malison.<em>a1b2c3d4</em>.png</code>) because Tabletop Simulator caches by URL permanently. A changed sheet gets a new URL and refetches; an unchanged one keeps its URL and stays cached.</p>
+  <p><strong>Machine-readable index:</strong> <a class="plain" href="manifest.json">manifest.json</a> — every sheet with its grid, cell size, back group and hash.</p>
+</div>
+
+<section>
+<h2>Player decks <span class="count">12</span></h2>
+<p class="blurb">The eight preset decks plus the shared Koinē pile, the minion pool and the ally pool. All ride the player back except minions.</p>
+<div class="grid">
+  <a class="card" href="sheets/deck-standstill.9bc1f36e.png">
+    <img loading="lazy" src="sheets/deck-standstill.9bc1f36e.png" alt="STANDSTILL">
+    <div class="meta">
+      <strong>STANDSTILL</strong>
+      <code>deck-standstill.9bc1f36e.png</code>
+      <span>22 cards · 10&times;3 grid · 300&times;420px cells · 225 kB</span>
+      <span class="back">back: <code>back-player</code></span>
+      <span class="warn">8 trailing blank cells — importers that slice the full grid will produce these as empty cards</span>
+      
+    </div>
+  </a>
+  <a class="card" href="sheets/deck-contagion.4c712855.png">
+    <img loading="lazy" src="sheets/deck-contagion.4c712855.png" alt="CONTAGION">
+    <div class="meta">
+      <strong>CONTAGION</strong>
+      <code>deck-contagion.4c712855.png</code>
+      <span>22 cards · 10&times;3 grid · 300&times;420px cells · 207 kB</span>
+      <span class="back">back: <code>back-player</code></span>
+      <span class="warn">8 trailing blank cells — importers that slice the full grid will produce these as empty cards</span>
+      
+    </div>
+  </a>
+  <a class="card" href="sheets/deck-bastion.5e79f36c.png">
+    <img loading="lazy" src="sheets/deck-bastion.5e79f36c.png" alt="BASTION">
+    <div class="meta">
+      <strong>BASTION</strong>
+      <code>deck-bastion.5e79f36c.png</code>
+      <span>22 cards · 10&times;3 grid · 300&times;420px cells · 216 kB</span>
+      <span class="back">back: <code>back-player</code></span>
+      <span class="warn">8 trailing blank cells — importers that slice the full grid will produce these as empty cards</span>
+      
+    </div>
+  </a>
+  <a class="card" href="sheets/deck-foundry.ffcc8a9c.png">
+    <img loading="lazy" src="sheets/deck-foundry.ffcc8a9c.png" alt="FOUNDRY">
+    <div class="meta">
+      <strong>FOUNDRY</strong>
+      <code>deck-foundry.ffcc8a9c.png</code>
+      <span>22 cards · 10&times;3 grid · 300&times;420px cells · 206 kB</span>
+      <span class="back">back: <code>back-player</code></span>
+      <span class="warn">8 trailing blank cells — importers that slice the full grid will produce these as empty cards</span>
+      
+    </div>
+  </a>
+  <a class="card" href="sheets/deck-torrent.4aae7150.png">
+    <img loading="lazy" src="sheets/deck-torrent.4aae7150.png" alt="TORRENT">
+    <div class="meta">
+      <strong>TORRENT</strong>
+      <code>deck-torrent.4aae7150.png</code>
+      <span>22 cards · 10&times;3 grid · 300&times;420px cells · 215 kB</span>
+      <span class="back">back: <code>back-player</code></span>
+      <span class="warn">8 trailing blank cells — importers that slice the full grid will produce these as empty cards</span>
+      
+    </div>
+  </a>
+  <a class="card" href="sheets/deck-invocation.c25c0b6e.png">
+    <img loading="lazy" src="sheets/deck-invocation.c25c0b6e.png" alt="INVOCATION">
+    <div class="meta">
+      <strong>INVOCATION</strong>
+      <code>deck-invocation.c25c0b6e.png</code>
+      <span>22 cards · 10&times;3 grid · 300&times;420px cells · 215 kB</span>
+      <span class="back">back: <code>back-player</code></span>
+      <span class="warn">8 trailing blank cells — importers that slice the full grid will produce these as empty cards</span>
+      
+    </div>
+  </a>
+  <a class="card" href="sheets/deck-malison.ff1ef671.png">
+    <img loading="lazy" src="sheets/deck-malison.ff1ef671.png" alt="MALISON">
+    <div class="meta">
+      <strong>MALISON</strong>
+      <code>deck-malison.ff1ef671.png</code>
+      <span>22 cards · 10&times;3 grid · 300&times;420px cells · 239 kB</span>
+      <span class="back">back: <code>back-player</code></span>
+      <span class="warn">8 trailing blank cells — importers that slice the full grid will produce these as empty cards</span>
+      
+    </div>
+  </a>
+  <a class="card" href="sheets/deck-neutral-koine.7465b07d.png">
+    <img loading="lazy" src="sheets/deck-neutral-koine.7465b07d.png" alt="Koine (neutral)">
+    <div class="meta">
+      <strong>Koine (neutral)</strong>
+      <code>deck-neutral-koine.7465b07d.png</code>
+      <span>14 cards · 10&times;2 grid · 300&times;420px cells · 173 kB</span>
+      <span class="back">back: <code>back-player</code></span>
+      <span class="warn">6 trailing blank cells — importers that slice the full grid will produce these as empty cards</span>
+      
+    </div>
+  </a>
+  <a class="card" href="sheets/deck-sig-skills.0371a8bb.png">
+    <img loading="lazy" src="sheets/deck-sig-skills.0371a8bb.png" alt="Signature Skills">
+    <div class="meta">
+      <strong>Signature Skills</strong>
+      <code>deck-sig-skills.0371a8bb.png</code>
+      <span>9 cards · 9&times;1 grid · 210&times;300px cells · 75 kB</span>
+      <span class="back">back: <code>back-sig</code></span>
+      
+      
+    </div>
+  </a>
+  <a class="card" href="sheets/deck-minions.75104ab0.png">
+    <img loading="lazy" src="sheets/deck-minions.75104ab0.png" alt="Minions">
+    <div class="meta">
+      <strong>Minions</strong>
+      <code>deck-minions.75104ab0.png</code>
+      <span>15 cards · 10&times;2 grid · 300&times;420px cells · 147 kB</span>
+      <span class="back">back: <code>back-enemy</code></span>
+      <span class="warn">5 trailing blank cells — importers that slice the full grid will produce these as empty cards</span>
+      <span class="note">shuffle each minion into its printed enemy tier</span>
+    </div>
+  </a>
+  <a class="card" href="sheets/deck-allies.0c56a072.png">
+    <img loading="lazy" src="sheets/deck-allies.0c56a072.png" alt="Allies">
+    <div class="meta">
+      <strong>Allies</strong>
+      <code>deck-allies.0c56a072.png</code>
+      <span>12 cards · 10&times;2 grid · 300&times;420px cells · 161 kB</span>
+      <span class="back">back: <code>back-player</code></span>
+      <span class="warn">8 trailing blank cells — importers that slice the full grid will produce these as empty cards</span>
+      
+    </div>
+  </a>
+  <a class="card" href="sheets/deck-covenant.007ad3cb.png">
+    <img loading="lazy" src="sheets/deck-covenant.007ad3cb.png" alt="COVENANT">
+    <div class="meta">
+      <strong>COVENANT</strong>
+      <code>deck-covenant.007ad3cb.png</code>
+      <span>22 cards · 10&times;3 grid · 300&times;420px cells · 220 kB</span>
+      <span class="back">back: <code>back-player</code></span>
+      <span class="warn">8 trailing blank cells — importers that slice the full grid will produce these as empty cards</span>
+      
+    </div>
+  </a>
+</div>
+</section>
+<section>
+<h2>Enemy decks <span class="count">4</span></h2>
+<p class="blurb">Never shuffled once built. Cells run in tier order: APPROACH, then PRESS, then FURY, with Enrage last and set aside.</p>
+<div class="grid">
+  <a class="card" href="sheets/enemy-skulk.e7bb427e.png">
+    <img loading="lazy" src="sheets/enemy-skulk.e7bb427e.png" alt="THE SKULK">
+    <div class="meta">
+      <strong>THE SKULK</strong>
+      <code>enemy-skulk.e7bb427e.png</code>
+      <span>21 cards · 10&times;3 grid · 300&times;420px cells · 97 kB</span>
+      <span class="back">back: <code>back-enemy</code></span>
+      <span class="warn">9 trailing blank cells — importers that slice the full grid will produce these as empty cards</span>
+      <span class="note">tier blocks in order: APPROACH, PRESS, FURY, then Enrage (set aside)</span>
+    </div>
+  </a>
+  <a class="card" href="sheets/enemy-shellback.69a91ff7.png">
+    <img loading="lazy" src="sheets/enemy-shellback.69a91ff7.png" alt="THE SHELLBACK">
+    <div class="meta">
+      <strong>THE SHELLBACK</strong>
+      <code>enemy-shellback.69a91ff7.png</code>
+      <span>21 cards · 10&times;3 grid · 300&times;420px cells · 102 kB</span>
+      <span class="back">back: <code>back-enemy</code></span>
+      <span class="warn">9 trailing blank cells — importers that slice the full grid will produce these as empty cards</span>
+      <span class="note">tier blocks in order: APPROACH, PRESS, FURY, then Enrage (set aside)</span>
+    </div>
+  </a>
+  <a class="card" href="sheets/enemy-brute.0815aca0.png">
+    <img loading="lazy" src="sheets/enemy-brute.0815aca0.png" alt="THE BRUTE">
+    <div class="meta">
+      <strong>THE BRUTE</strong>
+      <code>enemy-brute.0815aca0.png</code>
+      <span>21 cards · 10&times;3 grid · 300&times;420px cells · 97 kB</span>
+      <span class="back">back: <code>back-enemy</code></span>
+      <span class="warn">9 trailing blank cells — importers that slice the full grid will produce these as empty cards</span>
+      <span class="note">tier blocks in order: APPROACH, PRESS, FURY, then Enrage (set aside)</span>
+    </div>
+  </a>
+  <a class="card" href="sheets/enemy-broodmother.4d13f155.png">
+    <img loading="lazy" src="sheets/enemy-broodmother.4d13f155.png" alt="THE BROODMOTHER">
+    <div class="meta">
+      <strong>THE BROODMOTHER</strong>
+      <code>enemy-broodmother.4d13f155.png</code>
+      <span>16 cards · 10&times;2 grid · 300&times;420px cells · 92 kB</span>
+      <span class="back">back: <code>back-enemy</code></span>
+      <span class="warn">4 trailing blank cells — importers that slice the full grid will produce these as empty cards</span>
+      <span class="note">tier blocks in order: APPROACH, PRESS, FURY, then Enrage (set aside)</span>
+    </div>
+  </a>
+</div>
+</section>
+<section>
+<h2>Quality dice <span class="count">4</span></h2>
+<p class="blurb">Six-cell strips in spec-33 order. CELL N IS THE FACE A ROLL OF N SHOWS — the sheet is the probability distribution, so reordering one changes the game silently.</p>
+<div class="grid">
+  <a class="card" href="sheets/die-red.7e7a2971.png">
+    <img loading="lazy" src="sheets/die-red.7e7a2971.png" alt="RED die (Body)">
+    <div class="meta">
+      <strong>RED die (Body)</strong>
+      <code>die-red.7e7a2971.png</code>
+      <span>6 cards · 6&times;1 grid · 120&times;120px cells · 5 kB</span>
+      
+      
+      <span class="note">RED (Body) — 6 sides, spec-33 order · SPECIAL / MANA / MANA / MISS / MISS / MISS</span>
+    </div>
+  </a>
+  <a class="card" href="sheets/die-blue.5d226d82.png">
+    <img loading="lazy" src="sheets/die-blue.5d226d82.png" alt="BLUE die (Mind)">
+    <div class="meta">
+      <strong>BLUE die (Mind)</strong>
+      <code>die-blue.5d226d82.png</code>
+      <span>6 cards · 6&times;1 grid · 120&times;120px cells · 5 kB</span>
+      
+      
+      <span class="note">BLUE (Mind) — 6 sides, spec-33 order · SPECIAL / MANA / MANA / MISS / MISS / MISS</span>
+    </div>
+  </a>
+  <a class="card" href="sheets/die-purple.173e29e5.png">
+    <img loading="lazy" src="sheets/die-purple.173e29e5.png" alt="PURPLE die (Heart)">
+    <div class="meta">
+      <strong>PURPLE die (Heart)</strong>
+      <code>die-purple.173e29e5.png</code>
+      <span>6 cards · 6&times;1 grid · 120&times;120px cells · 5 kB</span>
+      
+      
+      <span class="note">PURPLE (Heart) — 6 sides, spec-33 order · SPECIAL / MANA / MANA / MISS / MISS / MISS</span>
+    </div>
+  </a>
+  <a class="card" href="sheets/die-gold.866aef67.png">
+    <img loading="lazy" src="sheets/die-gold.866aef67.png" alt="GOLD die (wild)">
+    <div class="meta">
+      <strong>GOLD die (wild)</strong>
+      <code>die-gold.866aef67.png</code>
+      <span>6 cards · 6&times;1 grid · 120&times;120px cells · 5 kB</span>
+      
+      
+      <span class="note">GOLD (wild) — 6 sides, spec-33 order · SPECIAL / MANA / MISS / MISS / MISS / MISS</span>
+    </div>
+  </a>
+</div>
+</section>
+<section>
+<h2>Card backs <span class="count">3</span></h2>
+<p class="blurb">A card's back follows the deck it is SHUFFLED INTO, or it is a marked card. Allies ride the player back; minions ride the enemy back.</p>
+<div class="grid">
+  <a class="card" href="sheets/back-player.a1eb3eb7.png">
+    <img loading="lazy" src="sheets/back-player.a1eb3eb7.png" alt="Player back (presets, Koinē, allies)">
+    <div class="meta">
+      <strong>Player back (presets, Koinē, allies)</strong>
+      <code>back-player.a1eb3eb7.png</code>
+      <span>1 image · 1&times;1 grid · 300&times;420px cells · 50 kB</span>
+      
+      
+      <span class="note">deck back</span>
+    </div>
+  </a>
+  <a class="card" href="sheets/back-sig.87b956dc.png">
+    <img loading="lazy" src="sheets/back-sig.87b956dc.png" alt="Signature Skill back (mini-US)">
+    <div class="meta">
+      <strong>Signature Skill back (mini-US)</strong>
+      <code>back-sig.87b956dc.png</code>
+      <span>1 image · 1&times;1 grid · 210&times;300px cells · 1 kB</span>
+      
+      
+      <span class="note">deck back</span>
+    </div>
+  </a>
+  <a class="card" href="sheets/back-enemy.aabc1b8a.png">
+    <img loading="lazy" src="sheets/back-enemy.aabc1b8a.png" alt="Enemy back (enemy decks, minions)">
+    <div class="meta">
+      <strong>Enemy back (enemy decks, minions)</strong>
+      <code>back-enemy.aabc1b8a.png</code>
+      <span>1 image · 1&times;1 grid · 300&times;420px cells · 27 kB</span>
+      
+      
+      <span class="note">deck back</span>
+    </div>
+  </a>
+</div>
+</section>
+<section>
+<h2>Table aids <span class="count">2</span></h2>
+<p class="blurb">Reference pieces that live face-up on the table.</p>
+<div class="grid">
+  <a class="card" href="sheets/tile-dice-legend.e754440a.png">
+    <img loading="lazy" src="sheets/tile-dice-legend.e754440a.png" alt="Dice Legend">
+    <div class="meta">
+      <strong>Dice Legend</strong>
+      <code>tile-dice-legend.e754440a.png</code>
+      <span>1 image · 1&times;1 grid · 300&times;420px cells · 28 kB</span>
+      
+      
+      <span class="note">table aid — keep face-up</span>
+    </div>
+  </a>
+  <a class="card" href="sheets/tile-chain-strip.a6fbf358.png">
+    <img loading="lazy" src="sheets/tile-chain-strip.a6fbf358.png" alt="Momentum Chain">
+    <div class="meta">
+      <strong>Momentum Chain</strong>
+      <code>tile-chain-strip.a6fbf358.png</code>
+      <span>1 image · 1&times;1 grid · 600&times;180px cells · 13 kB</span>
+      
+      
+      <span class="note">momentum board — one cube per player</span>
+    </div>
+  </a>
+</div>
+</section>
+
+<section>
+<h2>Reading the grids</h2>
+<table>
+<tr><th>field</th><th>meaning</th></tr>
+<tr><td>grid</td><td>columns &times; rows. Importers slice the <em>whole</em> rectangle in reading order.</td></tr>
+<tr><td>trailing blanks</td><td>Sheets are padded to a full rectangle. Those cells are blank on purpose. Tabletop Simulator lets a deck list an arbitrary subset of cells, so they simply never become cards; importers that take the whole grid will need them deleted.</td></tr>
+<tr><td>back</td><td>Which back sheet the deck uses. This is a rule, not a preference: a card's back follows the deck it is shuffled into, or it is a marked card in that deck.</td></tr>
+</table>
+</section>
+
+<footer>
+<p>Icons by Lorc, Delapouite, sbed, Faithtoken, Heavenly Dog, Guard13007, DarkZaitzev and Skoll from
+<a class="plain" href="https://game-icons.net">game-icons.net</a>, licensed
+<a class="plain" href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>.
+The three die quality faces (MISS / MANA / SPECIAL) are original to Axiomancer: Table Edition.</p>
+<p>Generated by <code>publish-assets.mjs</code>. Do not hand-edit — changes here are overwritten on the next publish.</p>
+</footer>
+</div>
+</body>
+</html>

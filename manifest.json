@@ -1,0 +1,582 @@
+{
+  "generated": "2026-07-27",
+  "scale": 1.25,
+  "sheets": [
+    {
+      "name": "deck-standstill",
+      "title": "STANDSTILL",
+      "file": "deck-standstill.png",
+      "published": "deck-standstill.9bc1f36e.png",
+      "sha": "9bc1f36e",
+      "bytes": 225400,
+      "cards": 22,
+      "columns": 10,
+      "rows": 3,
+      "blanks": 8,
+      "cellPx": [
+        300,
+        420
+      ],
+      "sheetPx": [
+        3000,
+        1260
+      ],
+      "back": "back-player",
+      "kind": "deck",
+      "note": ""
+    },
+    {
+      "name": "deck-contagion",
+      "title": "CONTAGION",
+      "file": "deck-contagion.png",
+      "published": "deck-contagion.4c712855.png",
+      "sha": "4c712855",
+      "bytes": 207285,
+      "cards": 22,
+      "columns": 10,
+      "rows": 3,
+      "blanks": 8,
+      "cellPx": [
+        300,
+        420
+      ],
+      "sheetPx": [
+        3000,
+        1260
+      ],
+      "back": "back-player",
+      "kind": "deck",
+      "note": ""
+    },
+    {
+      "name": "deck-bastion",
+      "title": "BASTION",
+      "file": "deck-bastion.png",
+      "published": "deck-bastion.5e79f36c.png",
+      "sha": "5e79f36c",
+      "bytes": 215601,
+      "cards": 22,
+      "columns": 10,
+      "rows": 3,
+      "blanks": 8,
+      "cellPx": [
+        300,
+        420
+      ],
+      "sheetPx": [
+        3000,
+        1260
+      ],
+      "back": "back-player",
+      "kind": "deck",
+      "note": ""
+    },
+    {
+      "name": "deck-foundry",
+      "title": "FOUNDRY",
+      "file": "deck-foundry.png",
+      "published": "deck-foundry.ffcc8a9c.png",
+      "sha": "ffcc8a9c",
+      "bytes": 206466,
+      "cards": 22,
+      "columns": 10,
+      "rows": 3,
+      "blanks": 8,
+      "cellPx": [
+        300,
+        420
+      ],
+      "sheetPx": [
+        3000,
+        1260
+      ],
+      "back": "back-player",
+      "kind": "deck",
+      "note": ""
+    },
+    {
+      "name": "deck-torrent",
+      "title": "TORRENT",
+      "file": "deck-torrent.png",
+      "published": "deck-torrent.4aae7150.png",
+      "sha": "4aae7150",
+      "bytes": 215327,
+      "cards": 22,
+      "columns": 10,
+      "rows": 3,
+      "blanks": 8,
+      "cellPx": [
+        300,
+        420
+      ],
+      "sheetPx": [
+        3000,
+        1260
+      ],
+      "back": "back-player",
+      "kind": "deck",
+      "note": ""
+    },
+    {
+      "name": "deck-invocation",
+      "title": "INVOCATION",
+      "file": "deck-invocation.png",
+      "published": "deck-invocation.c25c0b6e.png",
+      "sha": "c25c0b6e",
+      "bytes": 214910,
+      "cards": 22,
+      "columns": 10,
+      "rows": 3,
+      "blanks": 8,
+      "cellPx": [
+        300,
+        420
+      ],
+      "sheetPx": [
+        3000,
+        1260
+      ],
+      "back": "back-player",
+      "kind": "deck",
+      "note": ""
+    },
+    {
+      "name": "deck-malison",
+      "title": "MALISON",
+      "file": "deck-malison.png",
+      "published": "deck-malison.ff1ef671.png",
+      "sha": "ff1ef671",
+      "bytes": 238949,
+      "cards": 22,
+      "columns": 10,
+      "rows": 3,
+      "blanks": 8,
+      "cellPx": [
+        300,
+        420
+      ],
+      "sheetPx": [
+        3000,
+        1260
+      ],
+      "back": "back-player",
+      "kind": "deck",
+      "note": ""
+    },
+    {
+      "name": "deck-neutral-koine",
+      "title": "Koine (neutral)",
+      "file": "deck-neutral-koine.png",
+      "published": "deck-neutral-koine.7465b07d.png",
+      "sha": "7465b07d",
+      "bytes": 172566,
+      "cards": 14,
+      "columns": 10,
+      "rows": 2,
+      "blanks": 6,
+      "cellPx": [
+        300,
+        420
+      ],
+      "sheetPx": [
+        3000,
+        840
+      ],
+      "back": "back-player",
+      "kind": "deck",
+      "note": ""
+    },
+    {
+      "name": "deck-sig-skills",
+      "title": "Signature Skills",
+      "file": "deck-sig-skills.png",
+      "published": "deck-sig-skills.0371a8bb.png",
+      "sha": "0371a8bb",
+      "bytes": 75197,
+      "cards": 9,
+      "columns": 9,
+      "rows": 1,
+      "blanks": 0,
+      "cellPx": [
+        210,
+        300
+      ],
+      "sheetPx": [
+        1890,
+        300
+      ],
+      "back": "back-sig",
+      "kind": "deck",
+      "note": ""
+    },
+    {
+      "name": "enemy-skulk",
+      "title": "THE SKULK",
+      "file": "enemy-skulk.png",
+      "published": "enemy-skulk.e7bb427e.png",
+      "sha": "e7bb427e",
+      "bytes": 97218,
+      "cards": 21,
+      "columns": 10,
+      "rows": 3,
+      "blanks": 9,
+      "cellPx": [
+        300,
+        420
+      ],
+      "sheetPx": [
+        3000,
+        1260
+      ],
+      "back": "back-enemy",
+      "kind": "enemy",
+      "note": "tier blocks in order: APPROACH, PRESS, FURY, then Enrage (set aside)"
+    },
+    {
+      "name": "enemy-shellback",
+      "title": "THE SHELLBACK",
+      "file": "enemy-shellback.png",
+      "published": "enemy-shellback.69a91ff7.png",
+      "sha": "69a91ff7",
+      "bytes": 102370,
+      "cards": 21,
+      "columns": 10,
+      "rows": 3,
+      "blanks": 9,
+      "cellPx": [
+        300,
+        420
+      ],
+      "sheetPx": [
+        3000,
+        1260
+      ],
+      "back": "back-enemy",
+      "kind": "enemy",
+      "note": "tier blocks in order: APPROACH, PRESS, FURY, then Enrage (set aside)"
+    },
+    {
+      "name": "enemy-brute",
+      "title": "THE BRUTE",
+      "file": "enemy-brute.png",
+      "published": "enemy-brute.0815aca0.png",
+      "sha": "0815aca0",
+      "bytes": 96619,
+      "cards": 21,
+      "columns": 10,
+      "rows": 3,
+      "blanks": 9,
+      "cellPx": [
+        300,
+        420
+      ],
+      "sheetPx": [
+        3000,
+        1260
+      ],
+      "back": "back-enemy",
+      "kind": "enemy",
+      "note": "tier blocks in order: APPROACH, PRESS, FURY, then Enrage (set aside)"
+    },
+    {
+      "name": "deck-minions",
+      "title": "Minions",
+      "file": "deck-minions.png",
+      "published": "deck-minions.75104ab0.png",
+      "sha": "75104ab0",
+      "bytes": 146615,
+      "cards": 15,
+      "columns": 10,
+      "rows": 2,
+      "blanks": 5,
+      "cellPx": [
+        300,
+        420
+      ],
+      "sheetPx": [
+        3000,
+        840
+      ],
+      "back": "back-enemy",
+      "kind": "deck",
+      "note": "shuffle each minion into its printed enemy tier"
+    },
+    {
+      "name": "deck-allies",
+      "title": "Allies",
+      "file": "deck-allies.png",
+      "published": "deck-allies.0c56a072.png",
+      "sha": "0c56a072",
+      "bytes": 161271,
+      "cards": 12,
+      "columns": 10,
+      "rows": 2,
+      "blanks": 8,
+      "cellPx": [
+        300,
+        420
+      ],
+      "sheetPx": [
+        3000,
+        840
+      ],
+      "back": "back-player",
+      "kind": "deck",
+      "note": ""
+    },
+    {
+      "name": "deck-covenant",
+      "title": "COVENANT",
+      "file": "deck-covenant.png",
+      "published": "deck-covenant.007ad3cb.png",
+      "sha": "007ad3cb",
+      "bytes": 220088,
+      "cards": 22,
+      "columns": 10,
+      "rows": 3,
+      "blanks": 8,
+      "cellPx": [
+        300,
+        420
+      ],
+      "sheetPx": [
+        3000,
+        1260
+      ],
+      "back": "back-player",
+      "kind": "deck",
+      "note": ""
+    },
+    {
+      "name": "enemy-broodmother",
+      "title": "THE BROODMOTHER",
+      "file": "enemy-broodmother.png",
+      "published": "enemy-broodmother.4d13f155.png",
+      "sha": "4d13f155",
+      "bytes": 91897,
+      "cards": 16,
+      "columns": 10,
+      "rows": 2,
+      "blanks": 4,
+      "cellPx": [
+        300,
+        420
+      ],
+      "sheetPx": [
+        3000,
+        840
+      ],
+      "back": "back-enemy",
+      "kind": "enemy",
+      "note": "tier blocks in order: APPROACH, PRESS, FURY, then Enrage (set aside)"
+    },
+    {
+      "name": "back-player",
+      "title": "Player back (presets, Koinē, allies)",
+      "file": "back-player.png",
+      "published": "back-player.a1eb3eb7.png",
+      "sha": "a1eb3eb7",
+      "bytes": 50318,
+      "cards": 1,
+      "columns": 1,
+      "rows": 1,
+      "blanks": 0,
+      "cellPx": [
+        300,
+        420
+      ],
+      "sheetPx": [
+        300,
+        420
+      ],
+      "back": null,
+      "kind": "back",
+      "note": "deck back"
+    },
+    {
+      "name": "back-sig",
+      "title": "Signature Skill back (mini-US)",
+      "file": "back-sig.png",
+      "published": "back-sig.87b956dc.png",
+      "sha": "87b956dc",
+      "bytes": 816,
+      "cards": 1,
+      "columns": 1,
+      "rows": 1,
+      "blanks": 0,
+      "cellPx": [
+        210,
+        300
+      ],
+      "sheetPx": [
+        210,
+        300
+      ],
+      "back": null,
+      "kind": "back",
+      "note": "deck back"
+    },
+    {
+      "name": "back-enemy",
+      "title": "Enemy back (enemy decks, minions)",
+      "file": "back-enemy.png",
+      "published": "back-enemy.aabc1b8a.png",
+      "sha": "aabc1b8a",
+      "bytes": 27268,
+      "cards": 1,
+      "columns": 1,
+      "rows": 1,
+      "blanks": 0,
+      "cellPx": [
+        300,
+        420
+      ],
+      "sheetPx": [
+        300,
+        420
+      ],
+      "back": null,
+      "kind": "back",
+      "note": "deck back"
+    },
+    {
+      "name": "tile-dice-legend",
+      "title": "Dice Legend",
+      "file": "tile-dice-legend.png",
+      "published": "tile-dice-legend.e754440a.png",
+      "sha": "e754440a",
+      "bytes": 28211,
+      "cards": 1,
+      "columns": 1,
+      "rows": 1,
+      "blanks": 0,
+      "cellPx": [
+        300,
+        420
+      ],
+      "sheetPx": [
+        300,
+        420
+      ],
+      "back": null,
+      "kind": "tile",
+      "note": "table aid — keep face-up"
+    },
+    {
+      "name": "tile-chain-strip",
+      "title": "Momentum Chain",
+      "file": "tile-chain-strip.png",
+      "published": "tile-chain-strip.a6fbf358.png",
+      "sha": "a6fbf358",
+      "bytes": 13132,
+      "cards": 1,
+      "columns": 1,
+      "rows": 1,
+      "blanks": 0,
+      "cellPx": [
+        600,
+        180
+      ],
+      "sheetPx": [
+        600,
+        180
+      ],
+      "back": null,
+      "kind": "tile",
+      "note": "momentum board — one cube per player"
+    },
+    {
+      "name": "die-red",
+      "title": "RED die (Body)",
+      "file": "die-red.png",
+      "published": "die-red.7e7a2971.png",
+      "sha": "7e7a2971",
+      "bytes": 4704,
+      "cards": 6,
+      "columns": 6,
+      "rows": 1,
+      "blanks": 0,
+      "cellPx": [
+        120,
+        120
+      ],
+      "sheetPx": [
+        720,
+        120
+      ],
+      "back": null,
+      "kind": "die",
+      "note": "RED (Body) — 6 sides, spec-33 order · SPECIAL / MANA / MANA / MISS / MISS / MISS"
+    },
+    {
+      "name": "die-blue",
+      "title": "BLUE die (Mind)",
+      "file": "die-blue.png",
+      "published": "die-blue.5d226d82.png",
+      "sha": "5d226d82",
+      "bytes": 4610,
+      "cards": 6,
+      "columns": 6,
+      "rows": 1,
+      "blanks": 0,
+      "cellPx": [
+        120,
+        120
+      ],
+      "sheetPx": [
+        720,
+        120
+      ],
+      "back": null,
+      "kind": "die",
+      "note": "BLUE (Mind) — 6 sides, spec-33 order · SPECIAL / MANA / MANA / MISS / MISS / MISS"
+    },
+    {
+      "name": "die-purple",
+      "title": "PURPLE die (Heart)",
+      "file": "die-purple.png",
+      "published": "die-purple.173e29e5.png",
+      "sha": "173e29e5",
+      "bytes": 4520,
+      "cards": 6,
+      "columns": 6,
+      "rows": 1,
+      "blanks": 0,
+      "cellPx": [
+        120,
+        120
+      ],
+      "sheetPx": [
+        720,
+        120
+      ],
+      "back": null,
+      "kind": "die",
+      "note": "PURPLE (Heart) — 6 sides, spec-33 order · SPECIAL / MANA / MANA / MISS / MISS / MISS"
+    },
+    {
+      "name": "die-gold",
+      "title": "GOLD die (wild)",
+      "file": "die-gold.png",
+      "published": "die-gold.866aef67.png",
+      "sha": "866aef67",
+      "bytes": 4671,
+      "cards": 6,
+      "columns": 6,
+      "rows": 1,
+      "blanks": 0,
+      "cellPx": [
+        120,
+        120
+      ],
+      "sheetPx": [
+        720,
+        120
+      ],
+      "back": null,
+      "kind": "die",
+      "note": "GOLD (wild) — 6 sides, spec-33 order · SPECIAL / MANA / MISS / MISS / MISS / MISS"
+    }
+  ],
+  "base": "sheets/"
+}
