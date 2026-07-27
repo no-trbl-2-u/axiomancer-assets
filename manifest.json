@@ -167,9 +167,9 @@
       "name": "deck-neutral-koine",
       "title": "Koine (neutral)",
       "file": "deck-neutral-koine.png",
-      "published": "deck-neutral-koine.7465b07d.png",
-      "sha": "7465b07d",
-      "bytes": 172566,
+      "published": "deck-neutral-koine.220763ea.png",
+      "sha": "220763ea",
+      "bytes": 172563,
       "cards": 14,
       "columns": 10,
       "rows": 2,
@@ -576,6 +576,98 @@
       "back": null,
       "kind": "die",
       "note": "GOLD (wild) — 6 sides, spec-33 order · SPECIAL / MANA / MISS / MISS / MISS / MISS"
+    },
+    {
+      "name": "die-red-uv",
+      "title": "die-red-uv",
+      "file": "die-red-uv.png",
+      "published": "die-red-uv.46163b43.png",
+      "sha": "46163b43",
+      "bytes": 76836,
+      "cards": 6,
+      "columns": 3,
+      "rows": 2,
+      "blanks": 0,
+      "cellPx": [
+        612,
+        612
+      ],
+      "sheetPx": [
+        2048,
+        2048
+      ],
+      "back": null,
+      "kind": "die-uv",
+      "note": "TTS d6 UV atlas · roll 1-6 = SPECIAL / MANA / MANA / MISS / MISS / MISS"
+    },
+    {
+      "name": "die-blue-uv",
+      "title": "die-blue-uv",
+      "file": "die-blue-uv.png",
+      "published": "die-blue-uv.554c06fd.png",
+      "sha": "554c06fd",
+      "bytes": 77124,
+      "cards": 6,
+      "columns": 3,
+      "rows": 2,
+      "blanks": 0,
+      "cellPx": [
+        612,
+        612
+      ],
+      "sheetPx": [
+        2048,
+        2048
+      ],
+      "back": null,
+      "kind": "die-uv",
+      "note": "TTS d6 UV atlas · roll 1-6 = SPECIAL / MANA / MANA / MISS / MISS / MISS"
+    },
+    {
+      "name": "die-purple-uv",
+      "title": "die-purple-uv",
+      "file": "die-purple-uv.png",
+      "published": "die-purple-uv.5f927924.png",
+      "sha": "5f927924",
+      "bytes": 77802,
+      "cards": 6,
+      "columns": 3,
+      "rows": 2,
+      "blanks": 0,
+      "cellPx": [
+        612,
+        612
+      ],
+      "sheetPx": [
+        2048,
+        2048
+      ],
+      "back": null,
+      "kind": "die-uv",
+      "note": "TTS d6 UV atlas · roll 1-6 = SPECIAL / MANA / MANA / MISS / MISS / MISS"
+    },
+    {
+      "name": "die-gold-uv",
+      "title": "die-gold-uv",
+      "file": "die-gold-uv.png",
+      "published": "die-gold-uv.35f57819.png",
+      "sha": "35f57819",
+      "bytes": 73345,
+      "cards": 6,
+      "columns": 3,
+      "rows": 2,
+      "blanks": 0,
+      "cellPx": [
+        612,
+        612
+      ],
+      "sheetPx": [
+        2048,
+        2048
+      ],
+      "back": null,
+      "kind": "die-uv",
+      "note": "TTS d6 UV atlas · roll 1-6 = SPECIAL / MANA / MISS / MISS / MISS / MISS"
     }
   ],
   "base": "sheets/"
