@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-27",
+  "generated": "2026-08-13",
   "scale": 1.25,
   "sheets": [
     {
@@ -190,9 +190,9 @@
       "name": "enemy-skulk",
       "title": "THE SKULK",
       "file": "enemy-skulk.png",
-      "published": "enemy-skulk.b618990d.png",
-      "sha": "b618990d",
-      "bytes": 66696,
+      "published": "enemy-skulk.430e4706.png",
+      "sha": "430e4706",
+      "bytes": 61830,
       "cards": 9,
       "columns": 9,
       "rows": 1,
@@ -213,9 +213,9 @@
       "name": "enemy-shellback",
       "title": "THE SHELLBACK",
       "file": "enemy-shellback.png",
-      "published": "enemy-shellback.4d77518f.png",
-      "sha": "4d77518f",
-      "bytes": 72789,
+      "published": "enemy-shellback.c142cc2d.png",
+      "sha": "c142cc2d",
+      "bytes": 64744,
       "cards": 9,
       "columns": 9,
       "rows": 1,
@@ -236,9 +236,9 @@
       "name": "enemy-brute",
       "title": "THE BRUTE",
       "file": "enemy-brute.png",
-      "published": "enemy-brute.35e4fe60.png",
-      "sha": "35e4fe60",
-      "bytes": 64462,
+      "published": "enemy-brute.53d7322c.png",
+      "sha": "53d7322c",
+      "bytes": 60918,
       "cards": 9,
       "columns": 9,
       "rows": 1,
@@ -351,9 +351,9 @@
       "name": "enemy-broodmother",
       "title": "THE BROODMOTHER",
       "file": "enemy-broodmother.png",
-      "published": "enemy-broodmother.52f08bdf.png",
-      "sha": "52f08bdf",
-      "bytes": 83888,
+      "published": "enemy-broodmother.79c85a67.png",
+      "sha": "79c85a67",
+      "bytes": 75025,
       "cards": 9,
       "columns": 9,
       "rows": 1,
@@ -369,6 +369,259 @@
       "back": "back-enemy",
       "kind": "enemy",
       "note": "tier blocks in order: APPROACH, PRESS, FURY, then Enrage (set aside)"
+    },
+    {
+      "name": "expl-encounter",
+      "title": "ENCOUNTER (exploration)",
+      "file": "expl-encounter.png",
+      "published": "expl-encounter.f7093693.png",
+      "sha": "f7093693",
+      "bytes": 315104,
+      "cards": 10,
+      "columns": 5,
+      "rows": 2,
+      "blanks": 0,
+      "cellPx": [
+        420,
+        600
+      ],
+      "sheetPx": [
+        2100,
+        1200
+      ],
+      "back": "back-exploration",
+      "kind": "exploration",
+      "note": "PROVISIONAL — act range is printed on the rail and the footer."
+    },
+    {
+      "name": "expl-dilemma",
+      "title": "DILEMMA (exploration)",
+      "file": "expl-dilemma.png",
+      "published": "expl-dilemma.8ff277cc.png",
+      "sha": "8ff277cc",
+      "bytes": 310476,
+      "cards": 10,
+      "columns": 5,
+      "rows": 2,
+      "blanks": 0,
+      "cellPx": [
+        420,
+        600
+      ],
+      "sheetPx": [
+        2100,
+        1200
+      ],
+      "back": "back-exploration",
+      "kind": "exploration",
+      "note": "PROVISIONAL — act range is printed on the rail and the footer."
+    },
+    {
+      "name": "expl-hazard",
+      "title": "HAZARD (exploration)",
+      "file": "expl-hazard.png",
+      "published": "expl-hazard.6f28bfd4.png",
+      "sha": "6f28bfd4",
+      "bytes": 301006,
+      "cards": 10,
+      "columns": 5,
+      "rows": 2,
+      "blanks": 0,
+      "cellPx": [
+        420,
+        600
+      ],
+      "sheetPx": [
+        2100,
+        1200
+      ],
+      "back": "back-exploration",
+      "kind": "exploration",
+      "note": "PROVISIONAL — act range is printed on the rail and the footer."
+    },
+    {
+      "name": "expl-rest",
+      "title": "REST (exploration)",
+      "file": "expl-rest.png",
+      "published": "expl-rest.83d142d7.png",
+      "sha": "83d142d7",
+      "bytes": 288054,
+      "cards": 10,
+      "columns": 5,
+      "rows": 2,
+      "blanks": 0,
+      "cellPx": [
+        420,
+        600
+      ],
+      "sheetPx": [
+        2100,
+        1200
+      ],
+      "back": "back-exploration",
+      "kind": "exploration",
+      "note": "PROVISIONAL — act range is printed on the rail and the footer."
+    },
+    {
+      "name": "expl-discovery",
+      "title": "DISCOVERY (exploration)",
+      "file": "expl-discovery.png",
+      "published": "expl-discovery.c1ab913f.png",
+      "sha": "c1ab913f",
+      "bytes": 310500,
+      "cards": 10,
+      "columns": 5,
+      "rows": 2,
+      "blanks": 0,
+      "cellPx": [
+        420,
+        600
+      ],
+      "sheetPx": [
+        2100,
+        1200
+      ],
+      "back": "back-exploration",
+      "kind": "exploration",
+      "note": "PROVISIONAL — act range is printed on the rail and the footer."
+    },
+    {
+      "name": "expl-study",
+      "title": "STUDY (exploration)",
+      "file": "expl-study.png",
+      "published": "expl-study.c56b239b.png",
+      "sha": "c56b239b",
+      "bytes": 275530,
+      "cards": 10,
+      "columns": 5,
+      "rows": 2,
+      "blanks": 0,
+      "cellPx": [
+        420,
+        600
+      ],
+      "sheetPx": [
+        2100,
+        1200
+      ],
+      "back": "back-exploration",
+      "kind": "exploration",
+      "note": "PROVISIONAL — act range is printed on the rail and the footer."
+    },
+    {
+      "name": "expl-market",
+      "title": "MARKET (exploration)",
+      "file": "expl-market.png",
+      "published": "expl-market.bb5428a3.png",
+      "sha": "bb5428a3",
+      "bytes": 329323,
+      "cards": 10,
+      "columns": 5,
+      "rows": 2,
+      "blanks": 0,
+      "cellPx": [
+        420,
+        600
+      ],
+      "sheetPx": [
+        2100,
+        1200
+      ],
+      "back": "back-exploration",
+      "kind": "exploration",
+      "note": "PROVISIONAL — act range is printed on the rail and the footer."
+    },
+    {
+      "name": "expl-augury",
+      "title": "AUGURY (exploration)",
+      "file": "expl-augury.png",
+      "published": "expl-augury.b3dfe0b5.png",
+      "sha": "b3dfe0b5",
+      "bytes": 337387,
+      "cards": 10,
+      "columns": 5,
+      "rows": 2,
+      "blanks": 0,
+      "cellPx": [
+        420,
+        600
+      ],
+      "sheetPx": [
+        2100,
+        1200
+      ],
+      "back": "back-exploration",
+      "kind": "exploration",
+      "note": "PROVISIONAL — act range is printed on the rail and the footer."
+    },
+    {
+      "name": "expl-site",
+      "title": "SITE (exploration)",
+      "file": "expl-site.png",
+      "published": "expl-site.d318c70c.png",
+      "sha": "d318c70c",
+      "bytes": 298286,
+      "cards": 10,
+      "columns": 5,
+      "rows": 2,
+      "blanks": 0,
+      "cellPx": [
+        420,
+        600
+      ],
+      "sheetPx": [
+        2100,
+        1200
+      ],
+      "back": "back-exploration",
+      "kind": "exploration",
+      "note": "PROVISIONAL — act range is printed on the rail and the footer."
+    },
+    {
+      "name": "expl-pact",
+      "title": "PACT (exploration)",
+      "file": "expl-pact.png",
+      "published": "expl-pact.6138d12d.png",
+      "sha": "6138d12d",
+      "bytes": 301743,
+      "cards": 10,
+      "columns": 5,
+      "rows": 2,
+      "blanks": 0,
+      "cellPx": [
+        420,
+        600
+      ],
+      "sheetPx": [
+        2100,
+        1200
+      ],
+      "back": "back-exploration",
+      "kind": "exploration",
+      "note": "PROVISIONAL — act range is printed on the rail and the footer."
+    },
+    {
+      "name": "expl-enemies",
+      "title": "Enemy Encounters (tarot)",
+      "file": "expl-enemies.png",
+      "published": "expl-enemies.a9e4009b.png",
+      "sha": "a9e4009b",
+      "bytes": 623998,
+      "cards": 40,
+      "columns": 8,
+      "rows": 5,
+      "blanks": 0,
+      "cellPx": [
+        420,
+        600
+      ],
+      "sheetPx": [
+        3360,
+        3000
+      ],
+      "back": "back-exploration",
+      "kind": "exploration",
+      "note": "PROPOSED — the card IS the enemy. Shares the encounter back with the exploration sheets."
     },
     {
       "name": "back-player",
@@ -440,23 +693,23 @@
       "note": "deck back"
     },
     {
-      "name": "back-encounter",
-      "title": "back-encounter",
-      "file": "back-encounter.png",
-      "published": "back-encounter.f77defa0.png",
-      "sha": "f77defa0",
-      "bytes": 47310,
+      "name": "back-exploration",
+      "title": "Encounter-deck back (tarot — exploration AND enemy encounters)",
+      "file": "back-exploration.png",
+      "published": "back-exploration.583cf464.png",
+      "sha": "583cf464",
+      "bytes": 114761,
       "cards": 1,
       "columns": 1,
       "rows": 1,
       "blanks": 0,
       "cellPx": [
-        300,
-        420
+        420,
+        600
       ],
       "sheetPx": [
-        300,
-        420
+        420,
+        600
       ],
       "back": null,
       "kind": "back",
