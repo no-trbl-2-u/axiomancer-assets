@@ -374,20 +374,20 @@
       "name": "expl-encounter",
       "title": "ENCOUNTER (exploration)",
       "file": "expl-encounter.png",
-      "published": "expl-encounter.f7093693.png",
-      "sha": "f7093693",
-      "bytes": 315104,
+      "published": "expl-encounter.c66d50cb.png",
+      "sha": "c66d50cb",
+      "bytes": 311593,
       "cards": 10,
       "columns": 5,
       "rows": 2,
       "blanks": 0,
       "cellPx": [
-        420,
-        600
+        330,
+        570
       ],
       "sheetPx": [
-        2100,
-        1200
+        1650,
+        1140
       ],
       "back": "back-exploration",
       "kind": "exploration",
@@ -397,20 +397,20 @@
       "name": "expl-dilemma",
       "title": "DILEMMA (exploration)",
       "file": "expl-dilemma.png",
-      "published": "expl-dilemma.8ff277cc.png",
-      "sha": "8ff277cc",
-      "bytes": 310476,
+      "published": "expl-dilemma.b75b2c79.png",
+      "sha": "b75b2c79",
+      "bytes": 307665,
       "cards": 10,
       "columns": 5,
       "rows": 2,
       "blanks": 0,
       "cellPx": [
-        420,
-        600
+        330,
+        570
       ],
       "sheetPx": [
-        2100,
-        1200
+        1650,
+        1140
       ],
       "back": "back-exploration",
       "kind": "exploration",
@@ -420,20 +420,20 @@
       "name": "expl-hazard",
       "title": "HAZARD (exploration)",
       "file": "expl-hazard.png",
-      "published": "expl-hazard.6f28bfd4.png",
-      "sha": "6f28bfd4",
-      "bytes": 301006,
+      "published": "expl-hazard.b4c12cec.png",
+      "sha": "b4c12cec",
+      "bytes": 298634,
       "cards": 10,
       "columns": 5,
       "rows": 2,
       "blanks": 0,
       "cellPx": [
-        420,
-        600
+        330,
+        570
       ],
       "sheetPx": [
-        2100,
-        1200
+        1650,
+        1140
       ],
       "back": "back-exploration",
       "kind": "exploration",
@@ -443,20 +443,20 @@
       "name": "expl-rest",
       "title": "REST (exploration)",
       "file": "expl-rest.png",
-      "published": "expl-rest.83d142d7.png",
-      "sha": "83d142d7",
-      "bytes": 288054,
+      "published": "expl-rest.7582235b.png",
+      "sha": "7582235b",
+      "bytes": 287684,
       "cards": 10,
       "columns": 5,
       "rows": 2,
       "blanks": 0,
       "cellPx": [
-        420,
-        600
+        330,
+        570
       ],
       "sheetPx": [
-        2100,
-        1200
+        1650,
+        1140
       ],
       "back": "back-exploration",
       "kind": "exploration",
@@ -466,20 +466,20 @@
       "name": "expl-discovery",
       "title": "DISCOVERY (exploration)",
       "file": "expl-discovery.png",
-      "published": "expl-discovery.c1ab913f.png",
-      "sha": "c1ab913f",
-      "bytes": 310500,
+      "published": "expl-discovery.e2917ffe.png",
+      "sha": "e2917ffe",
+      "bytes": 307145,
       "cards": 10,
       "columns": 5,
       "rows": 2,
       "blanks": 0,
       "cellPx": [
-        420,
-        600
+        330,
+        570
       ],
       "sheetPx": [
-        2100,
-        1200
+        1650,
+        1140
       ],
       "back": "back-exploration",
       "kind": "exploration",
@@ -489,20 +489,20 @@
       "name": "expl-study",
       "title": "STUDY (exploration)",
       "file": "expl-study.png",
-      "published": "expl-study.c56b239b.png",
-      "sha": "c56b239b",
-      "bytes": 275530,
+      "published": "expl-study.6f97e8b2.png",
+      "sha": "6f97e8b2",
+      "bytes": 284018,
       "cards": 10,
       "columns": 5,
       "rows": 2,
       "blanks": 0,
       "cellPx": [
-        420,
-        600
+        330,
+        570
       ],
       "sheetPx": [
-        2100,
-        1200
+        1650,
+        1140
       ],
       "back": "back-exploration",
       "kind": "exploration",
@@ -512,20 +512,20 @@
       "name": "expl-market",
       "title": "MARKET (exploration)",
       "file": "expl-market.png",
-      "published": "expl-market.bb5428a3.png",
-      "sha": "bb5428a3",
-      "bytes": 329323,
+      "published": "expl-market.6086d8b1.png",
+      "sha": "6086d8b1",
+      "bytes": 315479,
       "cards": 10,
       "columns": 5,
       "rows": 2,
       "blanks": 0,
       "cellPx": [
-        420,
-        600
+        330,
+        570
       ],
       "sheetPx": [
-        2100,
-        1200
+        1650,
+        1140
       ],
       "back": "back-exploration",
       "kind": "exploration",
@@ -535,20 +535,20 @@
       "name": "expl-augury",
       "title": "AUGURY (exploration)",
       "file": "expl-augury.png",
-      "published": "expl-augury.b3dfe0b5.png",
-      "sha": "b3dfe0b5",
-      "bytes": 337387,
+      "published": "expl-augury.eaae9177.png",
+      "sha": "eaae9177",
+      "bytes": 323962,
       "cards": 10,
       "columns": 5,
       "rows": 2,
       "blanks": 0,
       "cellPx": [
-        420,
-        600
+        330,
+        570
       ],
       "sheetPx": [
-        2100,
-        1200
+        1650,
+        1140
       ],
       "back": "back-exploration",
       "kind": "exploration",
@@ -558,20 +558,20 @@
       "name": "expl-site",
       "title": "SITE (exploration)",
       "file": "expl-site.png",
-      "published": "expl-site.d318c70c.png",
-      "sha": "d318c70c",
-      "bytes": 298286,
+      "published": "expl-site.a0adac5c.png",
+      "sha": "a0adac5c",
+      "bytes": 298920,
       "cards": 10,
       "columns": 5,
       "rows": 2,
       "blanks": 0,
       "cellPx": [
-        420,
-        600
+        330,
+        570
       ],
       "sheetPx": [
-        2100,
-        1200
+        1650,
+        1140
       ],
       "back": "back-exploration",
       "kind": "exploration",
@@ -581,20 +581,20 @@
       "name": "expl-pact",
       "title": "PACT (exploration)",
       "file": "expl-pact.png",
-      "published": "expl-pact.6138d12d.png",
-      "sha": "6138d12d",
-      "bytes": 301743,
+      "published": "expl-pact.1b1bd2ff.png",
+      "sha": "1b1bd2ff",
+      "bytes": 308742,
       "cards": 10,
       "columns": 5,
       "rows": 2,
       "blanks": 0,
       "cellPx": [
-        420,
-        600
+        330,
+        570
       ],
       "sheetPx": [
-        2100,
-        1200
+        1650,
+        1140
       ],
       "back": "back-exploration",
       "kind": "exploration",
@@ -604,20 +604,20 @@
       "name": "expl-enemies",
       "title": "Enemy Encounters (tarot)",
       "file": "expl-enemies.png",
-      "published": "expl-enemies.a9e4009b.png",
-      "sha": "a9e4009b",
-      "bytes": 623998,
+      "published": "expl-enemies.a9b2f240.png",
+      "sha": "a9b2f240",
+      "bytes": 631900,
       "cards": 40,
       "columns": 8,
       "rows": 5,
       "blanks": 0,
       "cellPx": [
-        420,
-        600
+        330,
+        570
       ],
       "sheetPx": [
-        3360,
-        3000
+        2640,
+        2850
       ],
       "back": "back-exploration",
       "kind": "exploration",
@@ -696,20 +696,20 @@
       "name": "back-exploration",
       "title": "Encounter-deck back (tarot — exploration AND enemy encounters)",
       "file": "back-exploration.png",
-      "published": "back-exploration.583cf464.png",
-      "sha": "583cf464",
-      "bytes": 114761,
+      "published": "back-exploration.06249ab4.png",
+      "sha": "06249ab4",
+      "bytes": 91991,
       "cards": 1,
       "columns": 1,
       "rows": 1,
       "blanks": 0,
       "cellPx": [
-        420,
-        600
+        330,
+        570
       ],
       "sheetPx": [
-        420,
-        600
+        330,
+        570
       ],
       "back": null,
       "kind": "back",
