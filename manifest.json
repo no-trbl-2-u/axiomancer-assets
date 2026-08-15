@@ -297,7 +297,7 @@
         2400,
         420
       ],
-      "back": null,
+      "back": "back-character",
       "kind": "deck",
       "note": ""
     },
