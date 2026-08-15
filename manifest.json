@@ -259,22 +259,45 @@
       "name": "deck-sig-skills",
       "title": "Signature Skills",
       "file": "deck-sig-skills.png",
-      "published": "deck-sig-skills.18867a33.png",
-      "sha": "18867a33",
-      "bytes": 124942,
-      "cards": 18,
+      "published": "deck-sig-skills.dfb1b2ee.png",
+      "sha": "dfb1b2ee",
+      "bytes": 69983,
+      "cards": 10,
       "columns": 10,
-      "rows": 2,
-      "blanks": 2,
+      "rows": 1,
+      "blanks": 0,
       "cellPx": [
         210,
         300
       ],
       "sheetPx": [
         2100,
-        600
+        300
       ],
       "back": "back-sig",
+      "kind": "deck",
+      "note": ""
+    },
+    {
+      "name": "deck-characters",
+      "title": "deck-characters",
+      "file": "deck-characters.png",
+      "published": "deck-characters.735e48c8.png",
+      "sha": "735e48c8",
+      "bytes": 344250,
+      "cards": 8,
+      "columns": 8,
+      "rows": 1,
+      "blanks": 0,
+      "cellPx": [
+        300,
+        420
+      ],
+      "sheetPx": [
+        2400,
+        420
+      ],
+      "back": null,
       "kind": "deck",
       "note": ""
     },
@@ -664,6 +687,29 @@
       "sheetPx": [
         210,
         300
+      ],
+      "back": null,
+      "kind": "back",
+      "note": "deck back"
+    },
+    {
+      "name": "back-character",
+      "title": "back-character",
+      "file": "back-character.png",
+      "published": "back-character.fce21ae6.png",
+      "sha": "fce21ae6",
+      "bytes": 36247,
+      "cards": 1,
+      "columns": 1,
+      "rows": 1,
+      "blanks": 0,
+      "cellPx": [
+        300,
+        420
+      ],
+      "sheetPx": [
+        300,
+        420
       ],
       "back": null,
       "kind": "back",
