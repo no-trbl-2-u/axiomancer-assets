@@ -167,20 +167,20 @@
       "name": "deck-neutral-koine",
       "title": "Koine (neutral)",
       "file": "deck-neutral-koine.png",
-      "published": "deck-neutral-koine.f070be29.png",
-      "sha": "f070be29",
-      "bytes": 196688,
-      "cards": 14,
+      "published": "deck-neutral-koine.034f92b0.png",
+      "sha": "034f92b0",
+      "bytes": 322056,
+      "cards": 47,
       "columns": 10,
-      "rows": 2,
-      "blanks": 6,
+      "rows": 5,
+      "blanks": 3,
       "cellPx": [
         300,
         420
       ],
       "sheetPx": [
         3000,
-        840
+        2100
       ],
       "back": "back-player",
       "kind": "deck",
@@ -190,9 +190,9 @@
       "name": "enemy-skulk",
       "title": "THE SKULK",
       "file": "enemy-skulk.png",
-      "published": "enemy-skulk.430e4706.png",
-      "sha": "430e4706",
-      "bytes": 61830,
+      "published": "enemy-skulk.fa99c162.png",
+      "sha": "fa99c162",
+      "bytes": 60916,
       "cards": 9,
       "columns": 9,
       "rows": 1,
@@ -207,15 +207,15 @@
       ],
       "back": "back-enemy",
       "kind": "enemy",
-      "note": "tier blocks in order: APPROACH, PRESS, FURY, then Enrage (set aside)"
+      "note": "act blocks in order: ACT 1, ACT 2, ACT 3, then Enrage (set aside)"
     },
     {
       "name": "enemy-shellback",
       "title": "THE SHELLBACK",
       "file": "enemy-shellback.png",
-      "published": "enemy-shellback.c142cc2d.png",
-      "sha": "c142cc2d",
-      "bytes": 64744,
+      "published": "enemy-shellback.832410ea.png",
+      "sha": "832410ea",
+      "bytes": 63296,
       "cards": 9,
       "columns": 9,
       "rows": 1,
@@ -230,15 +230,15 @@
       ],
       "back": "back-enemy",
       "kind": "enemy",
-      "note": "tier blocks in order: APPROACH, PRESS, FURY, then Enrage (set aside)"
+      "note": "act blocks in order: ACT 1, ACT 2, ACT 3, then Enrage (set aside)"
     },
     {
       "name": "enemy-brute",
       "title": "THE BRUTE",
       "file": "enemy-brute.png",
-      "published": "enemy-brute.53d7322c.png",
-      "sha": "53d7322c",
-      "bytes": 60918,
+      "published": "enemy-brute.27785797.png",
+      "sha": "27785797",
+      "bytes": 59396,
       "cards": 9,
       "columns": 9,
       "rows": 1,
@@ -253,7 +253,7 @@
       ],
       "back": "back-enemy",
       "kind": "enemy",
-      "note": "tier blocks in order: APPROACH, PRESS, FURY, then Enrage (set aside)"
+      "note": "act blocks in order: ACT 1, ACT 2, ACT 3, then Enrage (set aside)"
     },
     {
       "name": "deck-sig-skills",
@@ -305,9 +305,9 @@
       "name": "deck-minions",
       "title": "Minions",
       "file": "deck-minions.png",
-      "published": "deck-minions.5be57f25.png",
-      "sha": "5be57f25",
-      "bytes": 145564,
+      "published": "deck-minions.976f7c0d.png",
+      "sha": "976f7c0d",
+      "bytes": 123824,
       "cards": 15,
       "columns": 10,
       "rows": 2,
@@ -328,9 +328,9 @@
       "name": "deck-allies",
       "title": "Allies",
       "file": "deck-allies.png",
-      "published": "deck-allies.d56ac126.png",
-      "sha": "d56ac126",
-      "bytes": 198749,
+      "published": "deck-allies.117847bb.png",
+      "sha": "117847bb",
+      "bytes": 195693,
       "cards": 12,
       "columns": 10,
       "rows": 2,
@@ -351,9 +351,9 @@
       "name": "deck-covenant",
       "title": "COVENANT",
       "file": "deck-covenant.png",
-      "published": "deck-covenant.d786c7c7.png",
-      "sha": "d786c7c7",
-      "bytes": 305729,
+      "published": "deck-covenant.d3c49337.png",
+      "sha": "d3c49337",
+      "bytes": 294178,
       "cards": 22,
       "columns": 10,
       "rows": 3,
@@ -374,9 +374,9 @@
       "name": "enemy-broodmother",
       "title": "THE BROODMOTHER",
       "file": "enemy-broodmother.png",
-      "published": "enemy-broodmother.79c85a67.png",
-      "sha": "79c85a67",
-      "bytes": 75025,
+      "published": "enemy-broodmother.73a18ed2.png",
+      "sha": "73a18ed2",
+      "bytes": 73005,
       "cards": 9,
       "columns": 9,
       "rows": 1,
@@ -391,64 +391,64 @@
       ],
       "back": "back-enemy",
       "kind": "enemy",
-      "note": "tier blocks in order: APPROACH, PRESS, FURY, then Enrage (set aside)"
+      "note": "act blocks in order: ACT 1, ACT 2, ACT 3, then Enrage (set aside)"
     },
     {
       "name": "expl-encounter",
       "title": "ENCOUNTER (exploration)",
       "file": "expl-encounter.png",
-      "published": "expl-encounter.c66d50cb.png",
-      "sha": "c66d50cb",
-      "bytes": 311593,
-      "cards": 10,
-      "columns": 5,
-      "rows": 2,
+      "published": "expl-encounter.a54a4c01.png",
+      "sha": "a54a4c01",
+      "bytes": 1184603,
+      "cards": 34,
+      "columns": 2,
+      "rows": 17,
       "blanks": 0,
       "cellPx": [
         330,
         570
       ],
       "sheetPx": [
-        1650,
-        1140
+        660,
+        9690
       ],
       "back": "back-exploration",
       "kind": "exploration",
-      "note": "PROVISIONAL — act range is printed on the rail and the footer."
+      "note": "PROVISIONAL — the single act is printed on the rail and the footer."
     },
     {
       "name": "expl-dilemma",
       "title": "DILEMMA (exploration)",
       "file": "expl-dilemma.png",
-      "published": "expl-dilemma.b75b2c79.png",
-      "sha": "b75b2c79",
-      "bytes": 307665,
-      "cards": 10,
-      "columns": 5,
-      "rows": 2,
+      "published": "expl-dilemma.7eb0d525.png",
+      "sha": "7eb0d525",
+      "bytes": 1219409,
+      "cards": 40,
+      "columns": 8,
+      "rows": 5,
       "blanks": 0,
       "cellPx": [
         330,
         570
       ],
       "sheetPx": [
-        1650,
-        1140
+        2640,
+        2850
       ],
       "back": "back-exploration",
       "kind": "exploration",
-      "note": "PROVISIONAL — act range is printed on the rail and the footer."
+      "note": "PROVISIONAL — the single act is printed on the rail and the footer."
     },
     {
       "name": "expl-hazard",
       "title": "HAZARD (exploration)",
       "file": "expl-hazard.png",
-      "published": "expl-hazard.b4c12cec.png",
-      "sha": "b4c12cec",
-      "bytes": 298634,
-      "cards": 10,
+      "published": "expl-hazard.a4017cdc.png",
+      "sha": "a4017cdc",
+      "bytes": 754865,
+      "cards": 25,
       "columns": 5,
-      "rows": 2,
+      "rows": 5,
       "blanks": 0,
       "cellPx": [
         330,
@@ -456,45 +456,45 @@
       ],
       "sheetPx": [
         1650,
-        1140
+        2850
       ],
       "back": "back-exploration",
       "kind": "exploration",
-      "note": "PROVISIONAL — act range is printed on the rail and the footer."
+      "note": "PROVISIONAL — the single act is printed on the rail and the footer."
     },
     {
       "name": "expl-rest",
       "title": "REST (exploration)",
       "file": "expl-rest.png",
-      "published": "expl-rest.7582235b.png",
-      "sha": "7582235b",
-      "bytes": 287684,
-      "cards": 10,
-      "columns": 5,
-      "rows": 2,
+      "published": "expl-rest.9e5413d0.png",
+      "sha": "9e5413d0",
+      "bytes": 820279,
+      "cards": 28,
+      "columns": 7,
+      "rows": 4,
       "blanks": 0,
       "cellPx": [
         330,
         570
       ],
       "sheetPx": [
-        1650,
-        1140
+        2310,
+        2280
       ],
       "back": "back-exploration",
       "kind": "exploration",
-      "note": "PROVISIONAL — act range is printed on the rail and the footer."
+      "note": "PROVISIONAL — the single act is printed on the rail and the footer."
     },
     {
       "name": "expl-discovery",
       "title": "DISCOVERY (exploration)",
       "file": "expl-discovery.png",
-      "published": "expl-discovery.e2917ffe.png",
-      "sha": "e2917ffe",
-      "bytes": 307145,
-      "cards": 10,
+      "published": "expl-discovery.da7fd6c2.png",
+      "sha": "da7fd6c2",
+      "bytes": 787298,
+      "cards": 25,
       "columns": 5,
-      "rows": 2,
+      "rows": 5,
       "blanks": 0,
       "cellPx": [
         330,
@@ -502,126 +502,149 @@
       ],
       "sheetPx": [
         1650,
-        1140
+        2850
       ],
       "back": "back-exploration",
       "kind": "exploration",
-      "note": "PROVISIONAL — act range is printed on the rail and the footer."
+      "note": "PROVISIONAL — the single act is printed on the rail and the footer."
     },
     {
       "name": "expl-study",
       "title": "STUDY (exploration)",
       "file": "expl-study.png",
-      "published": "expl-study.6f97e8b2.png",
-      "sha": "6f97e8b2",
-      "bytes": 284018,
-      "cards": 10,
-      "columns": 5,
-      "rows": 2,
+      "published": "expl-study.5aec64e0.png",
+      "sha": "5aec64e0",
+      "bytes": 738411,
+      "cards": 22,
+      "columns": 2,
+      "rows": 11,
       "blanks": 0,
       "cellPx": [
         330,
         570
       ],
       "sheetPx": [
-        1650,
-        1140
+        660,
+        6270
       ],
       "back": "back-exploration",
       "kind": "exploration",
-      "note": "PROVISIONAL — act range is printed on the rail and the footer."
+      "note": "PROVISIONAL — the single act is printed on the rail and the footer."
     },
     {
       "name": "expl-market",
       "title": "MARKET (exploration)",
       "file": "expl-market.png",
-      "published": "expl-market.6086d8b1.png",
-      "sha": "6086d8b1",
-      "bytes": 315479,
-      "cards": 10,
-      "columns": 5,
-      "rows": 2,
+      "published": "expl-market.c8726d35.png",
+      "sha": "c8726d35",
+      "bytes": 1273678,
+      "cards": 40,
+      "columns": 8,
+      "rows": 5,
       "blanks": 0,
       "cellPx": [
         330,
         570
       ],
       "sheetPx": [
-        1650,
-        1140
+        2640,
+        2850
       ],
       "back": "back-exploration",
       "kind": "exploration",
-      "note": "PROVISIONAL — act range is printed on the rail and the footer."
+      "note": "PROVISIONAL — the single act is printed on the rail and the footer."
     },
     {
       "name": "expl-augury",
       "title": "AUGURY (exploration)",
       "file": "expl-augury.png",
-      "published": "expl-augury.eaae9177.png",
-      "sha": "eaae9177",
-      "bytes": 323962,
-      "cards": 10,
-      "columns": 5,
-      "rows": 2,
-      "blanks": 0,
+      "published": "expl-augury.4d1a6e66.png",
+      "sha": "4d1a6e66",
+      "bytes": 629105,
+      "cards": 19,
+      "columns": 8,
+      "rows": 3,
+      "blanks": 5,
       "cellPx": [
         330,
         570
       ],
       "sheetPx": [
-        1650,
-        1140
+        2640,
+        1710
       ],
       "back": "back-exploration",
       "kind": "exploration",
-      "note": "PROVISIONAL — act range is printed on the rail and the footer."
+      "note": "PROVISIONAL — the single act is printed on the rail and the footer."
     },
     {
       "name": "expl-site",
       "title": "SITE (exploration)",
       "file": "expl-site.png",
-      "published": "expl-site.a0adac5c.png",
-      "sha": "a0adac5c",
-      "bytes": 298920,
-      "cards": 10,
-      "columns": 5,
-      "rows": 2,
-      "blanks": 0,
+      "published": "expl-site.11e0dae0.png",
+      "sha": "11e0dae0",
+      "bytes": 591283,
+      "cards": 19,
+      "columns": 8,
+      "rows": 3,
+      "blanks": 5,
       "cellPx": [
         330,
         570
       ],
       "sheetPx": [
-        1650,
-        1140
+        2640,
+        1710
       ],
       "back": "back-exploration",
       "kind": "exploration",
-      "note": "PROVISIONAL — act range is printed on the rail and the footer."
+      "note": "PROVISIONAL — the single act is printed on the rail and the footer."
     },
     {
       "name": "expl-pact",
       "title": "PACT (exploration)",
       "file": "expl-pact.png",
-      "published": "expl-pact.1b1bd2ff.png",
-      "sha": "1b1bd2ff",
-      "bytes": 308742,
-      "cards": 10,
-      "columns": 5,
-      "rows": 2,
+      "published": "expl-pact.d51d8a14.png",
+      "sha": "d51d8a14",
+      "bytes": 866345,
+      "cards": 28,
+      "columns": 7,
+      "rows": 4,
       "blanks": 0,
       "cellPx": [
         330,
         570
       ],
       "sheetPx": [
-        1650,
-        1140
+        2310,
+        2280
       ],
       "back": "back-exploration",
       "kind": "exploration",
-      "note": "PROVISIONAL — act range is printed on the rail and the footer."
+      "note": "PROVISIONAL — the single act is printed on the rail and the footer."
+    },
+    {
+      "name": "expl-university",
+      "title": "UNIVERSITY (exploration)",
+      "file": "expl-university.png",
+      "published": "expl-university.66035663.png",
+      "sha": "66035663",
+      "bytes": 647079,
+      "cards": 21,
+      "columns": 7,
+      "rows": 3,
+      "blanks": 0,
+      "cellPx": [
+        330,
+        570
+      ],
+      "sheetPx": [
+        2310,
+        1710
+      ],
+      "back": "back-exploration",
+      "kind": "exploration",
+      "note": "PROVISIONAL — the single act is printed on the rail and the footer."
     },
     {
       "name": "expl-enemies",
@@ -645,6 +668,190 @@
       "back": "back-exploration",
       "kind": "exploration",
       "note": "PROPOSED — the card IS the enemy. Shares the encounter back with the exploration sheets."
+    },
+    {
+      "name": "boss-identity",
+      "title": "Boss identity cards (3.5x5)",
+      "file": "boss-identity.png",
+      "published": "boss-identity.daffebe0.png",
+      "sha": "daffebe0",
+      "bytes": 340567,
+      "cards": 5,
+      "columns": 5,
+      "rows": 1,
+      "blanks": 0,
+      "cellPx": [
+        420,
+        600
+      ],
+      "sheetPx": [
+        2100,
+        600
+      ],
+      "back": "back-boss",
+      "kind": "boss",
+      "note": "PROVISIONAL — one 3.5x5 identity card per boss; the whole fight's rules are on it."
+    },
+    {
+      "name": "boss-father",
+      "title": "THE FATHER — boss deck",
+      "file": "boss-father.png",
+      "published": "boss-father.8abef344.png",
+      "sha": "8abef344",
+      "bytes": 93053,
+      "cards": 16,
+      "columns": 10,
+      "rows": 2,
+      "blanks": 4,
+      "cellPx": [
+        300,
+        420
+      ],
+      "sheetPx": [
+        3000,
+        840
+      ],
+      "back": "back-enemy",
+      "kind": "boss",
+      "note": "PROVISIONAL — 16 single-effect telegraphs; enemy back. Reveal one per player."
+    },
+    {
+      "name": "boss-candidate",
+      "title": "THE CANDIDATE — boss deck",
+      "file": "boss-candidate.png",
+      "published": "boss-candidate.2c74cece.png",
+      "sha": "2c74cece",
+      "bytes": 89375,
+      "cards": 16,
+      "columns": 10,
+      "rows": 2,
+      "blanks": 4,
+      "cellPx": [
+        300,
+        420
+      ],
+      "sheetPx": [
+        3000,
+        840
+      ],
+      "back": "back-enemy",
+      "kind": "boss",
+      "note": "PROVISIONAL — 16 single-effect telegraphs; enemy back. Reveal one per player."
+    },
+    {
+      "name": "boss-reflection",
+      "title": "THE REFLECTION — boss deck",
+      "file": "boss-reflection.png",
+      "published": "boss-reflection.363d4c25.png",
+      "sha": "363d4c25",
+      "bytes": 97479,
+      "cards": 16,
+      "columns": 10,
+      "rows": 2,
+      "blanks": 4,
+      "cellPx": [
+        300,
+        420
+      ],
+      "sheetPx": [
+        3000,
+        840
+      ],
+      "back": "back-enemy",
+      "kind": "boss",
+      "note": "PROVISIONAL — 16 single-effect telegraphs; enemy back. Reveal one per player."
+    },
+    {
+      "name": "boss-thread",
+      "title": "THE THREAD — boss deck",
+      "file": "boss-thread.png",
+      "published": "boss-thread.aaf4815d.png",
+      "sha": "aaf4815d",
+      "bytes": 99291,
+      "cards": 16,
+      "columns": 10,
+      "rows": 2,
+      "blanks": 4,
+      "cellPx": [
+        300,
+        420
+      ],
+      "sheetPx": [
+        3000,
+        840
+      ],
+      "back": "back-enemy",
+      "kind": "boss",
+      "note": "PROVISIONAL — 16 single-effect telegraphs; enemy back. Reveal one per player."
+    },
+    {
+      "name": "boss-thread-curses",
+      "title": "THE THREAD — Knots (player back)",
+      "file": "boss-thread-curses.png",
+      "published": "boss-thread-curses.c967aa1d.png",
+      "sha": "c967aa1d",
+      "bytes": 37891,
+      "cards": 6,
+      "columns": 6,
+      "rows": 1,
+      "blanks": 0,
+      "cellPx": [
+        300,
+        420
+      ],
+      "sheetPx": [
+        1800,
+        420
+      ],
+      "back": "back-player",
+      "kind": "boss",
+      "note": "PROVISIONAL — the boss's Curses; PLAYER back, because it HEXes them into your library."
+    },
+    {
+      "name": "boss-advisor",
+      "title": "THE ADVISOR — boss deck",
+      "file": "boss-advisor.png",
+      "published": "boss-advisor.8c48e069.png",
+      "sha": "8c48e069",
+      "bytes": 97997,
+      "cards": 16,
+      "columns": 10,
+      "rows": 2,
+      "blanks": 4,
+      "cellPx": [
+        300,
+        420
+      ],
+      "sheetPx": [
+        3000,
+        840
+      ],
+      "back": "back-enemy",
+      "kind": "boss",
+      "note": "PROVISIONAL — 16 single-effect telegraphs; enemy back. Reveal one per player."
+    },
+    {
+      "name": "boss-advisor-curses",
+      "title": "THE ADVISOR — Whispers (player back)",
+      "file": "boss-advisor-curses.png",
+      "published": "boss-advisor-curses.a6b97301.png",
+      "sha": "a6b97301",
+      "bytes": 35384,
+      "cards": 6,
+      "columns": 6,
+      "rows": 1,
+      "blanks": 0,
+      "cellPx": [
+        300,
+        420
+      ],
+      "sheetPx": [
+        1800,
+        420
+      ],
+      "back": "back-player",
+      "kind": "boss",
+      "note": "PROVISIONAL — the boss's Curses; PLAYER back, because it HEXes them into your library."
     },
     {
       "name": "back-player",
@@ -756,6 +963,29 @@
       "sheetPx": [
         330,
         570
+      ],
+      "back": null,
+      "kind": "back",
+      "note": "deck back"
+    },
+    {
+      "name": "back-boss",
+      "title": "Boss identity-card back (3.5x5)",
+      "file": "back-boss.png",
+      "published": "back-boss.874b2c8c.png",
+      "sha": "874b2c8c",
+      "bytes": 102487,
+      "cards": 1,
+      "columns": 1,
+      "rows": 1,
+      "blanks": 0,
+      "cellPx": [
+        420,
+        600
+      ],
+      "sheetPx": [
+        420,
+        600
       ],
       "back": null,
       "kind": "back",
