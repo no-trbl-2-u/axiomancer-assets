@@ -900,6 +900,29 @@
       "note": "PROVISIONAL — the boss's Curses; PLAYER back, because it HEXes them into your library."
     },
     {
+      "name": "enemy-base-pool",
+      "title": "enemy-base-pool",
+      "file": "enemy-base-pool.png",
+      "published": "enemy-base-pool.d82016a8.png",
+      "sha": "d82016a8",
+      "bytes": 802565,
+      "cards": 68,
+      "columns": 10,
+      "rows": 7,
+      "blanks": 2,
+      "cellPx": [
+        300,
+        420
+      ],
+      "sheetPx": [
+        3000,
+        2940
+      ],
+      "back": "back-enemy",
+      "kind": "enemy",
+      "note": "act blocks in order: ACT 1, ACT 2, ACT 3, then Enrage (set aside)"
+    },
+    {
       "name": "back-player",
       "title": "Player back (presets, Koinē, allies)",
       "file": "back-player.png",
