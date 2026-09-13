@@ -1085,11 +1085,11 @@
     },
     {
       "name": "tile-surge-chip",
-      "title": "SURGE Meter chip",
+      "title": "SURGE Meter dial",
       "file": "tile-surge-chip.png",
-      "published": "tile-surge-chip.b8a61167.png",
-      "sha": "b8a61167",
-      "bytes": 70998,
+      "published": "tile-surge-chip.6e079a27.png",
+      "sha": "6e079a27",
+      "bytes": 67188,
       "cards": 1,
       "columns": 1,
       "rows": 1,
@@ -1104,7 +1104,30 @@
       ],
       "back": null,
       "kind": "tile",
-      "note": "SURGE Meter — one shared chip for the party"
+      "note": "SURGE Meter — one shared dial for the party"
+    },
+    {
+      "name": "tile-surge-pointer",
+      "title": "SURGE Meter pointer",
+      "file": "tile-surge-pointer.png",
+      "published": "tile-surge-pointer.89218ec9.png",
+      "sha": "89218ec9",
+      "bytes": 7760,
+      "cards": 1,
+      "columns": 1,
+      "rows": 1,
+      "blanks": 0,
+      "cellPx": [
+        375,
+        375
+      ],
+      "sheetPx": [
+        375,
+        375
+      ],
+      "back": null,
+      "kind": "tile",
+      "note": "SURGE Meter — the pointer board the dial is read against"
     },
     {
       "name": "die-red",
