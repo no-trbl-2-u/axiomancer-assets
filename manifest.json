@@ -1084,27 +1084,27 @@
       "note": "deck back"
     },
     {
-      "name": "tile-chain-strip",
-      "title": "SURGE Meter",
-      "file": "tile-chain-strip.png",
-      "published": "tile-chain-strip.e5aa0182.png",
-      "sha": "e5aa0182",
-      "bytes": 15513,
+      "name": "tile-surge-chip",
+      "title": "SURGE Meter chip",
+      "file": "tile-surge-chip.png",
+      "published": "tile-surge-chip.b8a61167.png",
+      "sha": "b8a61167",
+      "bytes": 70998,
       "cards": 1,
       "columns": 1,
       "rows": 1,
       "blanks": 0,
       "cellPx": [
-        600,
-        180
+        750,
+        750
       ],
       "sheetPx": [
-        600,
-        180
+        750,
+        750
       ],
       "back": null,
       "kind": "tile",
-      "note": "SURGE Meter — one shared board for the party"
+      "note": "SURGE Meter — one shared chip for the party"
     },
     {
       "name": "die-red",
