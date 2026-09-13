@@ -1084,29 +1084,6 @@
       "note": "deck back"
     },
     {
-      "name": "tile-dice-legend",
-      "title": "Dice Legend",
-      "file": "tile-dice-legend.png",
-      "published": "tile-dice-legend.8954cdee.png",
-      "sha": "8954cdee",
-      "bytes": 28194,
-      "cards": 1,
-      "columns": 1,
-      "rows": 1,
-      "blanks": 0,
-      "cellPx": [
-        300,
-        420
-      ],
-      "sheetPx": [
-        300,
-        420
-      ],
-      "back": null,
-      "kind": "tile",
-      "note": "table aid — keep face-up"
-    },
-    {
       "name": "tile-chain-strip",
       "title": "SURGE Meter",
       "file": "tile-chain-strip.png",
