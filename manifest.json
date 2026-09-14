@@ -923,6 +923,29 @@
       "note": "act blocks in order: ACT 1, ACT 2, ACT 3, then Enrage (set aside)"
     },
     {
+      "name": "enemy-brood-minions",
+      "title": "enemy-brood-minions",
+      "file": "enemy-brood-minions.png",
+      "published": "enemy-brood-minions.15a5483c.png",
+      "sha": "15a5483c",
+      "bytes": 252264,
+      "cards": 42,
+      "columns": 10,
+      "rows": 5,
+      "blanks": 8,
+      "cellPx": [
+        300,
+        420
+      ],
+      "sheetPx": [
+        3000,
+        2100
+      ],
+      "back": "back-enemy",
+      "kind": "enemy",
+      "note": "act blocks in order: ACT 1, ACT 2, ACT 3, then Enrage (set aside)"
+    },
+    {
       "name": "back-player",
       "title": "Player back (presets, Koinē, allies)",
       "file": "back-player.png",
