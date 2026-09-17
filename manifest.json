@@ -1153,6 +1153,328 @@
       "note": "SURGE Meter — the pointer board the dial is read against"
     },
     {
+      "name": "tile-token-guard",
+      "title": "GUARD token (1)",
+      "file": "tile-token-guard.png",
+      "published": "tile-token-guard.bd35766f.png",
+      "sha": "bd35766f",
+      "bytes": 16388,
+      "cards": 1,
+      "columns": 1,
+      "rows": 1,
+      "blanks": 0,
+      "cellPx": [
+        375,
+        375
+      ],
+      "sheetPx": [
+        375,
+        375
+      ],
+      "back": null,
+      "kind": "tile",
+      "note": "GUARD token — the 1 side"
+    },
+    {
+      "name": "tile-token-guard-3",
+      "title": "GUARD token (3)",
+      "file": "tile-token-guard-3.png",
+      "published": "tile-token-guard-3.1608d9d1.png",
+      "sha": "1608d9d1",
+      "bytes": 20901,
+      "cards": 1,
+      "columns": 1,
+      "rows": 1,
+      "blanks": 0,
+      "cellPx": [
+        375,
+        375
+      ],
+      "sheetPx": [
+        375,
+        375
+      ],
+      "back": null,
+      "kind": "tile",
+      "note": "GUARD token — the 3 side"
+    },
+    {
+      "name": "tile-token-toll",
+      "title": "TOLL token (1)",
+      "file": "tile-token-toll.png",
+      "published": "tile-token-toll.e16ac97a.png",
+      "sha": "e16ac97a",
+      "bytes": 18379,
+      "cards": 1,
+      "columns": 1,
+      "rows": 1,
+      "blanks": 0,
+      "cellPx": [
+        375,
+        375
+      ],
+      "sheetPx": [
+        375,
+        375
+      ],
+      "back": null,
+      "kind": "tile",
+      "note": "TOLL token — the 1 side"
+    },
+    {
+      "name": "tile-token-toll-3",
+      "title": "TOLL token (3)",
+      "file": "tile-token-toll-3.png",
+      "published": "tile-token-toll-3.01f1ded3.png",
+      "sha": "01f1ded3",
+      "bytes": 21523,
+      "cards": 1,
+      "columns": 1,
+      "rows": 1,
+      "blanks": 0,
+      "cellPx": [
+        375,
+        375
+      ],
+      "sheetPx": [
+        375,
+        375
+      ],
+      "back": null,
+      "kind": "tile",
+      "note": "TOLL token — the 3 side"
+    },
+    {
+      "name": "tile-token-blight",
+      "title": "BLIGHT token (1)",
+      "file": "tile-token-blight.png",
+      "published": "tile-token-blight.d87b020d.png",
+      "sha": "d87b020d",
+      "bytes": 15561,
+      "cards": 1,
+      "columns": 1,
+      "rows": 1,
+      "blanks": 0,
+      "cellPx": [
+        375,
+        375
+      ],
+      "sheetPx": [
+        375,
+        375
+      ],
+      "back": null,
+      "kind": "tile",
+      "note": "BLIGHT token — the 1 side"
+    },
+    {
+      "name": "tile-token-blight-3",
+      "title": "BLIGHT token (3)",
+      "file": "tile-token-blight-3.png",
+      "published": "tile-token-blight-3.edc4692e.png",
+      "sha": "edc4692e",
+      "bytes": 19565,
+      "cards": 1,
+      "columns": 1,
+      "rows": 1,
+      "blanks": 0,
+      "cellPx": [
+        375,
+        375
+      ],
+      "sheetPx": [
+        375,
+        375
+      ],
+      "back": null,
+      "kind": "tile",
+      "note": "BLIGHT token — the 3 side"
+    },
+    {
+      "name": "tile-token-thorns",
+      "title": "THORNS token (1)",
+      "file": "tile-token-thorns.png",
+      "published": "tile-token-thorns.85460ba0.png",
+      "sha": "85460ba0",
+      "bytes": 17847,
+      "cards": 1,
+      "columns": 1,
+      "rows": 1,
+      "blanks": 0,
+      "cellPx": [
+        375,
+        375
+      ],
+      "sheetPx": [
+        375,
+        375
+      ],
+      "back": null,
+      "kind": "tile",
+      "note": "THORNS token — the 1 side"
+    },
+    {
+      "name": "tile-token-thorns-3",
+      "title": "THORNS token (3)",
+      "file": "tile-token-thorns-3.png",
+      "published": "tile-token-thorns-3.4b6f3fb1.png",
+      "sha": "4b6f3fb1",
+      "bytes": 22037,
+      "cards": 1,
+      "columns": 1,
+      "rows": 1,
+      "blanks": 0,
+      "cellPx": [
+        375,
+        375
+      ],
+      "sheetPx": [
+        375,
+        375
+      ],
+      "back": null,
+      "kind": "tile",
+      "note": "THORNS token — the 3 side"
+    },
+    {
+      "name": "tile-token-stagger",
+      "title": "STAGGER token (1)",
+      "file": "tile-token-stagger.png",
+      "published": "tile-token-stagger.9ce558c0.png",
+      "sha": "9ce558c0",
+      "bytes": 21048,
+      "cards": 1,
+      "columns": 1,
+      "rows": 1,
+      "blanks": 0,
+      "cellPx": [
+        375,
+        375
+      ],
+      "sheetPx": [
+        375,
+        375
+      ],
+      "back": null,
+      "kind": "tile",
+      "note": "STAGGER token — the 1 side"
+    },
+    {
+      "name": "tile-token-stagger-3",
+      "title": "STAGGER token (3)",
+      "file": "tile-token-stagger-3.png",
+      "published": "tile-token-stagger-3.a2b4ca03.png",
+      "sha": "a2b4ca03",
+      "bytes": 23633,
+      "cards": 1,
+      "columns": 1,
+      "rows": 1,
+      "blanks": 0,
+      "cellPx": [
+        375,
+        375
+      ],
+      "sheetPx": [
+        375,
+        375
+      ],
+      "back": null,
+      "kind": "tile",
+      "note": "STAGGER token — the 3 side"
+    },
+    {
+      "name": "tile-token-progress",
+      "title": "PROGRESS token (1)",
+      "file": "tile-token-progress.png",
+      "published": "tile-token-progress.3066cdc1.png",
+      "sha": "3066cdc1",
+      "bytes": 20751,
+      "cards": 1,
+      "columns": 1,
+      "rows": 1,
+      "blanks": 0,
+      "cellPx": [
+        375,
+        375
+      ],
+      "sheetPx": [
+        375,
+        375
+      ],
+      "back": null,
+      "kind": "tile",
+      "note": "PROGRESS token — the 1 side"
+    },
+    {
+      "name": "tile-token-progress-3",
+      "title": "PROGRESS token (3)",
+      "file": "tile-token-progress-3.png",
+      "published": "tile-token-progress-3.f77717e8.png",
+      "sha": "f77717e8",
+      "bytes": 24161,
+      "cards": 1,
+      "columns": 1,
+      "rows": 1,
+      "blanks": 0,
+      "cellPx": [
+        375,
+        375
+      ],
+      "sheetPx": [
+        375,
+        375
+      ],
+      "back": null,
+      "kind": "tile",
+      "note": "PROGRESS token — the 3 side"
+    },
+    {
+      "name": "tile-token-evade",
+      "title": "EVADE token (1)",
+      "file": "tile-token-evade.png",
+      "published": "tile-token-evade.a0c86ecd.png",
+      "sha": "a0c86ecd",
+      "bytes": 18534,
+      "cards": 1,
+      "columns": 1,
+      "rows": 1,
+      "blanks": 0,
+      "cellPx": [
+        375,
+        375
+      ],
+      "sheetPx": [
+        375,
+        375
+      ],
+      "back": null,
+      "kind": "tile",
+      "note": "EVADE token — the 1 side"
+    },
+    {
+      "name": "tile-token-evade-3",
+      "title": "EVADE token (3)",
+      "file": "tile-token-evade-3.png",
+      "published": "tile-token-evade-3.eb568114.png",
+      "sha": "eb568114",
+      "bytes": 22278,
+      "cards": 1,
+      "columns": 1,
+      "rows": 1,
+      "blanks": 0,
+      "cellPx": [
+        375,
+        375
+      ],
+      "sheetPx": [
+        375,
+        375
+      ],
+      "back": null,
+      "kind": "tile",
+      "note": "EVADE token — the 3 side"
+    },
+    {
       "name": "die-red",
       "title": "RED die (Body)",
       "file": "die-red.png",
