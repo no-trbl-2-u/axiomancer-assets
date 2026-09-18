@@ -1,25 +1,25 @@
 {
   "generated": "2026-08-13",
-  "scale": 1.25,
+  "scale": 2.5,
   "sheets": [
     {
       "name": "deck-standstill",
       "title": "STANDSTILL",
       "file": "deck-standstill.png",
-      "published": "deck-standstill.c3cc2106.png",
-      "sha": "c3cc2106",
-      "bytes": 258257,
+      "published": "deck-standstill.46225c17.png",
+      "sha": "46225c17",
+      "bytes": 682932,
       "cards": 22,
       "columns": 10,
       "rows": 3,
       "blanks": 8,
       "cellPx": [
-        300,
-        420
+        600,
+        840
       ],
       "sheetPx": [
-        3000,
-        1260
+        6000,
+        2520
       ],
       "back": "back-player",
       "kind": "deck",
@@ -29,20 +29,20 @@
       "name": "deck-contagion",
       "title": "CONTAGION",
       "file": "deck-contagion.png",
-      "published": "deck-contagion.d6053754.png",
-      "sha": "d6053754",
-      "bytes": 260324,
+      "published": "deck-contagion.1cc12bf7.png",
+      "sha": "1cc12bf7",
+      "bytes": 673456,
       "cards": 22,
       "columns": 10,
       "rows": 3,
       "blanks": 8,
       "cellPx": [
-        300,
-        420
+        600,
+        840
       ],
       "sheetPx": [
-        3000,
-        1260
+        6000,
+        2520
       ],
       "back": "back-player",
       "kind": "deck",
@@ -52,20 +52,20 @@
       "name": "deck-bastion",
       "title": "BASTION",
       "file": "deck-bastion.png",
-      "published": "deck-bastion.e13daddb.png",
-      "sha": "e13daddb",
-      "bytes": 247757,
+      "published": "deck-bastion.99c66f20.png",
+      "sha": "99c66f20",
+      "bytes": 645527,
       "cards": 22,
       "columns": 10,
       "rows": 3,
       "blanks": 8,
       "cellPx": [
-        300,
-        420
+        600,
+        840
       ],
       "sheetPx": [
-        3000,
-        1260
+        6000,
+        2520
       ],
       "back": "back-player",
       "kind": "deck",
@@ -75,20 +75,20 @@
       "name": "deck-foundry",
       "title": "FOUNDRY",
       "file": "deck-foundry.png",
-      "published": "deck-foundry.065841bf.png",
-      "sha": "065841bf",
-      "bytes": 254470,
+      "published": "deck-foundry.1a972873.png",
+      "sha": "1a972873",
+      "bytes": 713027,
       "cards": 22,
       "columns": 10,
       "rows": 3,
       "blanks": 8,
       "cellPx": [
-        300,
-        420
+        600,
+        840
       ],
       "sheetPx": [
-        3000,
-        1260
+        6000,
+        2520
       ],
       "back": "back-player",
       "kind": "deck",
@@ -98,20 +98,20 @@
       "name": "deck-torrent",
       "title": "TORRENT",
       "file": "deck-torrent.png",
-      "published": "deck-torrent.c21fde3c.png",
-      "sha": "c21fde3c",
-      "bytes": 253654,
+      "published": "deck-torrent.4ace6fb6.png",
+      "sha": "4ace6fb6",
+      "bytes": 676942,
       "cards": 22,
       "columns": 10,
       "rows": 3,
       "blanks": 8,
       "cellPx": [
-        300,
-        420
+        600,
+        840
       ],
       "sheetPx": [
-        3000,
-        1260
+        6000,
+        2520
       ],
       "back": "back-player",
       "kind": "deck",
@@ -121,20 +121,20 @@
       "name": "deck-invocation",
       "title": "INVOCATION",
       "file": "deck-invocation.png",
-      "published": "deck-invocation.a5ba61bc.png",
-      "sha": "a5ba61bc",
-      "bytes": 288693,
+      "published": "deck-invocation.252273d9.png",
+      "sha": "252273d9",
+      "bytes": 780956,
       "cards": 22,
       "columns": 10,
       "rows": 3,
       "blanks": 8,
       "cellPx": [
-        300,
-        420
+        600,
+        840
       ],
       "sheetPx": [
-        3000,
-        1260
+        6000,
+        2520
       ],
       "back": "back-player",
       "kind": "deck",
@@ -144,20 +144,20 @@
       "name": "deck-malison",
       "title": "MALISON",
       "file": "deck-malison.png",
-      "published": "deck-malison.ed27c663.png",
-      "sha": "ed27c663",
-      "bytes": 295596,
+      "published": "deck-malison.6d0e995b.png",
+      "sha": "6d0e995b",
+      "bytes": 842871,
       "cards": 22,
       "columns": 10,
       "rows": 3,
       "blanks": 8,
       "cellPx": [
-        300,
-        420
+        600,
+        840
       ],
       "sheetPx": [
-        3000,
-        1260
+        6000,
+        2520
       ],
       "back": "back-player",
       "kind": "deck",
@@ -167,20 +167,20 @@
       "name": "deck-neutral-koine",
       "title": "Koine (neutral)",
       "file": "deck-neutral-koine.png",
-      "published": "deck-neutral-koine.2d5de869.png",
-      "sha": "2d5de869",
-      "bytes": 332967,
+      "published": "deck-neutral-koine.e811a1ad.png",
+      "sha": "e811a1ad",
+      "bytes": 905866,
       "cards": 47,
       "columns": 10,
       "rows": 5,
       "blanks": 3,
       "cellPx": [
-        300,
-        420
+        600,
+        840
       ],
       "sheetPx": [
-        3000,
-        2100
+        6000,
+        4200
       ],
       "back": "back-player",
       "kind": "deck",
@@ -190,20 +190,20 @@
       "name": "enemy-skulk",
       "title": "THE SKULK",
       "file": "enemy-skulk.png",
-      "published": "enemy-skulk.778db010.png",
-      "sha": "778db010",
-      "bytes": 62450,
+      "published": "enemy-skulk.9260be98.png",
+      "sha": "9260be98",
+      "bytes": 175102,
       "cards": 9,
       "columns": 9,
       "rows": 1,
       "blanks": 0,
       "cellPx": [
-        300,
-        420
+        600,
+        840
       ],
       "sheetPx": [
-        2700,
-        420
+        5400,
+        840
       ],
       "back": "back-enemy",
       "kind": "enemy",
@@ -213,20 +213,20 @@
       "name": "enemy-shellback",
       "title": "THE SHELLBACK",
       "file": "enemy-shellback.png",
-      "published": "enemy-shellback.eb1af044.png",
-      "sha": "eb1af044",
-      "bytes": 65146,
+      "published": "enemy-shellback.1134d356.png",
+      "sha": "1134d356",
+      "bytes": 175924,
       "cards": 9,
       "columns": 9,
       "rows": 1,
       "blanks": 0,
       "cellPx": [
-        300,
-        420
+        600,
+        840
       ],
       "sheetPx": [
-        2700,
-        420
+        5400,
+        840
       ],
       "back": "back-enemy",
       "kind": "enemy",
@@ -236,20 +236,20 @@
       "name": "enemy-brute",
       "title": "THE BRUTE",
       "file": "enemy-brute.png",
-      "published": "enemy-brute.14f4822c.png",
-      "sha": "14f4822c",
-      "bytes": 61553,
+      "published": "enemy-brute.2d136ee1.png",
+      "sha": "2d136ee1",
+      "bytes": 167401,
       "cards": 9,
       "columns": 9,
       "rows": 1,
       "blanks": 0,
       "cellPx": [
-        300,
-        420
+        600,
+        840
       ],
       "sheetPx": [
-        2700,
-        420
+        5400,
+        840
       ],
       "back": "back-enemy",
       "kind": "enemy",
@@ -259,20 +259,20 @@
       "name": "deck-sig-skills",
       "title": "Signature Skills",
       "file": "deck-sig-skills.png",
-      "published": "deck-sig-skills.31f81c95.png",
-      "sha": "31f81c95",
-      "bytes": 69015,
+      "published": "deck-sig-skills.74ec6ae2.png",
+      "sha": "74ec6ae2",
+      "bytes": 193706,
       "cards": 10,
       "columns": 10,
       "rows": 1,
       "blanks": 0,
       "cellPx": [
-        210,
-        300
+        420,
+        600
       ],
       "sheetPx": [
-        2100,
-        300
+        4200,
+        600
       ],
       "back": "back-sig",
       "kind": "deck",
@@ -282,20 +282,20 @@
       "name": "deck-characters",
       "title": "deck-characters",
       "file": "deck-characters.png",
-      "published": "deck-characters.4c32dbdc.png",
-      "sha": "4c32dbdc",
-      "bytes": 354422,
+      "published": "deck-characters.d1eb0e1d.png",
+      "sha": "d1eb0e1d",
+      "bytes": 1120523,
       "cards": 8,
       "columns": 8,
       "rows": 1,
       "blanks": 0,
       "cellPx": [
-        300,
-        420
+        600,
+        840
       ],
       "sheetPx": [
-        2400,
-        420
+        4800,
+        840
       ],
       "back": "back-character",
       "kind": "deck",
@@ -305,20 +305,20 @@
       "name": "deck-minions",
       "title": "Minions",
       "file": "deck-minions.png",
-      "published": "deck-minions.51d50a9f.png",
-      "sha": "51d50a9f",
-      "bytes": 130803,
+      "published": "deck-minions.6c91ba6a.png",
+      "sha": "6c91ba6a",
+      "bytes": 398552,
       "cards": 15,
       "columns": 10,
       "rows": 2,
       "blanks": 5,
       "cellPx": [
-        300,
-        420
+        600,
+        840
       ],
       "sheetPx": [
-        3000,
-        840
+        6000,
+        1680
       ],
       "back": "back-enemy",
       "kind": "deck",
@@ -328,20 +328,20 @@
       "name": "deck-allies",
       "title": "Allies",
       "file": "deck-allies.png",
-      "published": "deck-allies.8d913e5e.png",
-      "sha": "8d913e5e",
-      "bytes": 203878,
+      "published": "deck-allies.a6e45a8b.png",
+      "sha": "a6e45a8b",
+      "bytes": 529724,
       "cards": 12,
       "columns": 10,
       "rows": 2,
       "blanks": 8,
       "cellPx": [
-        300,
-        420
+        600,
+        840
       ],
       "sheetPx": [
-        3000,
-        840
+        6000,
+        1680
       ],
       "back": "back-player",
       "kind": "deck",
@@ -351,20 +351,20 @@
       "name": "deck-covenant",
       "title": "COVENANT",
       "file": "deck-covenant.png",
-      "published": "deck-covenant.398326aa.png",
-      "sha": "398326aa",
-      "bytes": 303488,
+      "published": "deck-covenant.03ff406b.png",
+      "sha": "03ff406b",
+      "bytes": 811436,
       "cards": 22,
       "columns": 10,
       "rows": 3,
       "blanks": 8,
       "cellPx": [
-        300,
-        420
+        600,
+        840
       ],
       "sheetPx": [
-        3000,
-        1260
+        6000,
+        2520
       ],
       "back": "back-player",
       "kind": "deck",
@@ -374,20 +374,20 @@
       "name": "enemy-broodmother",
       "title": "THE BROODMOTHER",
       "file": "enemy-broodmother.png",
-      "published": "enemy-broodmother.74ac3f30.png",
-      "sha": "74ac3f30",
-      "bytes": 76196,
+      "published": "enemy-broodmother.6c86a00c.png",
+      "sha": "6c86a00c",
+      "bytes": 209416,
       "cards": 9,
       "columns": 9,
       "rows": 1,
       "blanks": 0,
       "cellPx": [
-        300,
-        420
+        600,
+        840
       ],
       "sheetPx": [
-        2700,
-        420
+        5400,
+        840
       ],
       "back": "back-enemy",
       "kind": "enemy",
@@ -397,20 +397,20 @@
       "name": "expl-encounter",
       "title": "ENCOUNTER (exploration)",
       "file": "expl-encounter.png",
-      "published": "expl-encounter.824bea25.png",
-      "sha": "824bea25",
-      "bytes": 1333596,
+      "published": "expl-encounter.b6a4ea44.png",
+      "sha": "b6a4ea44",
+      "bytes": 3613453,
       "cards": 34,
-      "columns": 2,
-      "rows": 17,
-      "blanks": 0,
+      "columns": 5,
+      "rows": 7,
+      "blanks": 1,
       "cellPx": [
-        330,
-        570
+        660,
+        1140
       ],
       "sheetPx": [
-        660,
-        9690
+        3300,
+        7980
       ],
       "back": "back-exploration",
       "kind": "exploration",
@@ -420,20 +420,20 @@
       "name": "expl-dilemma",
       "title": "DILEMMA (exploration)",
       "file": "expl-dilemma.png",
-      "published": "expl-dilemma.bafce674.png",
-      "sha": "bafce674",
-      "bytes": 1513785,
+      "published": "expl-dilemma.b3786104.png",
+      "sha": "b3786104",
+      "bytes": 4331116,
       "cards": 40,
       "columns": 8,
       "rows": 5,
       "blanks": 0,
       "cellPx": [
-        330,
-        570
+        660,
+        1140
       ],
       "sheetPx": [
-        2640,
-        2850
+        5280,
+        5700
       ],
       "back": "back-exploration",
       "kind": "exploration",
@@ -443,20 +443,20 @@
       "name": "expl-hazard",
       "title": "HAZARD (exploration)",
       "file": "expl-hazard.png",
-      "published": "expl-hazard.05f94883.png",
-      "sha": "05f94883",
-      "bytes": 871260,
+      "published": "expl-hazard.e07513b5.png",
+      "sha": "e07513b5",
+      "bytes": 2508428,
       "cards": 25,
       "columns": 5,
       "rows": 5,
       "blanks": 0,
       "cellPx": [
-        330,
-        570
+        660,
+        1140
       ],
       "sheetPx": [
-        1650,
-        2850
+        3300,
+        5700
       ],
       "back": "back-exploration",
       "kind": "exploration",
@@ -466,20 +466,20 @@
       "name": "expl-rest",
       "title": "REST (exploration)",
       "file": "expl-rest.png",
-      "published": "expl-rest.7342153a.png",
-      "sha": "7342153a",
-      "bytes": 1001856,
+      "published": "expl-rest.50da76e4.png",
+      "sha": "50da76e4",
+      "bytes": 2847414,
       "cards": 28,
       "columns": 7,
       "rows": 4,
       "blanks": 0,
       "cellPx": [
-        330,
-        570
+        660,
+        1140
       ],
       "sheetPx": [
-        2310,
-        2280
+        4620,
+        4560
       ],
       "back": "back-exploration",
       "kind": "exploration",
@@ -489,20 +489,20 @@
       "name": "expl-discovery",
       "title": "DISCOVERY (exploration)",
       "file": "expl-discovery.png",
-      "published": "expl-discovery.2ac29e6a.png",
-      "sha": "2ac29e6a",
-      "bytes": 956918,
+      "published": "expl-discovery.679a4111.png",
+      "sha": "679a4111",
+      "bytes": 2749289,
       "cards": 25,
       "columns": 5,
       "rows": 5,
       "blanks": 0,
       "cellPx": [
-        330,
-        570
+        660,
+        1140
       ],
       "sheetPx": [
-        1650,
-        2850
+        3300,
+        5700
       ],
       "back": "back-exploration",
       "kind": "exploration",
@@ -512,20 +512,20 @@
       "name": "expl-study",
       "title": "STUDY (exploration)",
       "file": "expl-study.png",
-      "published": "expl-study.e40d8c2d.png",
-      "sha": "e40d8c2d",
-      "bytes": 841232,
+      "published": "expl-study.42e776a9.png",
+      "sha": "42e776a9",
+      "bytes": 2383366,
       "cards": 22,
-      "columns": 2,
-      "rows": 11,
-      "blanks": 0,
+      "columns": 4,
+      "rows": 6,
+      "blanks": 2,
       "cellPx": [
-        330,
-        570
+        660,
+        1140
       ],
       "sheetPx": [
-        660,
-        6270
+        2640,
+        6840
       ],
       "back": "back-exploration",
       "kind": "exploration",
@@ -535,20 +535,20 @@
       "name": "expl-market",
       "title": "MARKET (exploration)",
       "file": "expl-market.png",
-      "published": "expl-market.6c99713e.png",
-      "sha": "6c99713e",
-      "bytes": 1565370,
+      "published": "expl-market.338fe8a5.png",
+      "sha": "338fe8a5",
+      "bytes": 4535387,
       "cards": 40,
       "columns": 8,
       "rows": 5,
       "blanks": 0,
       "cellPx": [
-        330,
-        570
+        660,
+        1140
       ],
       "sheetPx": [
-        2640,
-        2850
+        5280,
+        5700
       ],
       "back": "back-exploration",
       "kind": "exploration",
@@ -558,20 +558,20 @@
       "name": "expl-augury",
       "title": "AUGURY (exploration)",
       "file": "expl-augury.png",
-      "published": "expl-augury.ba80000b.png",
-      "sha": "ba80000b",
-      "bytes": 733550,
+      "published": "expl-augury.fcba7b99.png",
+      "sha": "fcba7b99",
+      "bytes": 2182619,
       "cards": 19,
-      "columns": 8,
-      "rows": 3,
-      "blanks": 5,
+      "columns": 3,
+      "rows": 7,
+      "blanks": 2,
       "cellPx": [
-        330,
-        570
+        660,
+        1140
       ],
       "sheetPx": [
-        2640,
-        1710
+        1980,
+        7980
       ],
       "back": "back-exploration",
       "kind": "exploration",
@@ -581,20 +581,20 @@
       "name": "expl-site",
       "title": "SITE (exploration)",
       "file": "expl-site.png",
-      "published": "expl-site.e01646c7.png",
-      "sha": "e01646c7",
-      "bytes": 715261,
+      "published": "expl-site.9ca11cc3.png",
+      "sha": "9ca11cc3",
+      "bytes": 2123753,
       "cards": 19,
-      "columns": 8,
-      "rows": 3,
-      "blanks": 5,
+      "columns": 3,
+      "rows": 7,
+      "blanks": 2,
       "cellPx": [
-        330,
-        570
+        660,
+        1140
       ],
       "sheetPx": [
-        2640,
-        1710
+        1980,
+        7980
       ],
       "back": "back-exploration",
       "kind": "exploration",
@@ -604,20 +604,20 @@
       "name": "expl-pact",
       "title": "PACT (exploration)",
       "file": "expl-pact.png",
-      "published": "expl-pact.f8d81de8.png",
-      "sha": "f8d81de8",
-      "bytes": 1019729,
+      "published": "expl-pact.d274b567.png",
+      "sha": "d274b567",
+      "bytes": 3019039,
       "cards": 28,
       "columns": 7,
       "rows": 4,
       "blanks": 0,
       "cellPx": [
-        330,
-        570
+        660,
+        1140
       ],
       "sheetPx": [
-        2310,
-        2280
+        4620,
+        4560
       ],
       "back": "back-exploration",
       "kind": "exploration",
@@ -627,20 +627,20 @@
       "name": "expl-university",
       "title": "UNIVERSITY (exploration)",
       "file": "expl-university.png",
-      "published": "expl-university.45c5d18a.png",
-      "sha": "45c5d18a",
-      "bytes": 791138,
+      "published": "expl-university.c305877d.png",
+      "sha": "c305877d",
+      "bytes": 2264876,
       "cards": 21,
       "columns": 7,
       "rows": 3,
       "blanks": 0,
       "cellPx": [
-        330,
-        570
+        660,
+        1140
       ],
       "sheetPx": [
-        2310,
-        1710
+        4620,
+        3420
       ],
       "back": "back-exploration",
       "kind": "exploration",
@@ -650,20 +650,20 @@
       "name": "expl-story",
       "title": "STORY (exploration)",
       "file": "expl-story.png",
-      "published": "expl-story.04fe1d7f.png",
-      "sha": "04fe1d7f",
-      "bytes": 454091,
+      "published": "expl-story.ae8e2a4c.png",
+      "sha": "ae8e2a4c",
+      "bytes": 1340791,
       "cards": 14,
       "columns": 7,
       "rows": 2,
       "blanks": 0,
       "cellPx": [
-        330,
-        570
+        660,
+        1140
       ],
       "sheetPx": [
-        2310,
-        1140
+        4620,
+        2280
       ],
       "back": "back-story",
       "kind": "exploration",
@@ -673,20 +673,20 @@
       "name": "expl-enemies",
       "title": "Enemy Encounters (tarot)",
       "file": "expl-enemies.png",
-      "published": "expl-enemies.7c1876d6.png",
-      "sha": "7c1876d6",
-      "bytes": 583310,
+      "published": "expl-enemies.bb5ebc6d.png",
+      "sha": "bb5ebc6d",
+      "bytes": 1816288,
       "cards": 40,
       "columns": 8,
       "rows": 5,
       "blanks": 0,
       "cellPx": [
-        330,
-        570
+        660,
+        1140
       ],
       "sheetPx": [
-        2640,
-        2850
+        5280,
+        5700
       ],
       "back": "back-exploration",
       "kind": "exploration",
@@ -696,20 +696,20 @@
       "name": "expl-companions",
       "title": "expl-companions",
       "file": "expl-companions.png",
-      "published": "expl-companions.5f895ae0.png",
-      "sha": "5f895ae0",
-      "bytes": 173535,
+      "published": "expl-companions.159bfd33.png",
+      "sha": "159bfd33",
+      "bytes": 470693,
       "cards": 5,
       "columns": 5,
       "rows": 1,
       "blanks": 0,
       "cellPx": [
-        330,
-        570
+        660,
+        1140
       ],
       "sheetPx": [
-        1650,
-        570
+        3300,
+        1140
       ],
       "back": "back-exploration",
       "kind": "exploration",
@@ -719,20 +719,20 @@
       "name": "boss-identity",
       "title": "Boss identity cards (3.5x5)",
       "file": "boss-identity.png",
-      "published": "boss-identity.b4bfe27a.png",
-      "sha": "b4bfe27a",
-      "bytes": 179656,
+      "published": "boss-identity.46064be4.png",
+      "sha": "46064be4",
+      "bytes": 482785,
       "cards": 5,
       "columns": 5,
       "rows": 1,
       "blanks": 0,
       "cellPx": [
-        600,
-        420
+        1200,
+        840
       ],
       "sheetPx": [
-        3000,
-        420
+        6000,
+        840
       ],
       "back": "back-boss",
       "kind": "boss",
@@ -742,20 +742,20 @@
       "name": "boss-father",
       "title": "THE FATHER — boss deck",
       "file": "boss-father.png",
-      "published": "boss-father.c7705305.png",
-      "sha": "c7705305",
-      "bytes": 98999,
+      "published": "boss-father.0b48e820.png",
+      "sha": "0b48e820",
+      "bytes": 238764,
       "cards": 16,
       "columns": 10,
       "rows": 2,
       "blanks": 4,
       "cellPx": [
-        300,
-        420
+        600,
+        840
       ],
       "sheetPx": [
-        3000,
-        840
+        6000,
+        1680
       ],
       "back": "back-enemy",
       "kind": "boss",
@@ -765,20 +765,20 @@
       "name": "boss-candidate",
       "title": "THE CANDIDATE — boss deck",
       "file": "boss-candidate.png",
-      "published": "boss-candidate.54776648.png",
-      "sha": "54776648",
-      "bytes": 86634,
+      "published": "boss-candidate.055085a5.png",
+      "sha": "055085a5",
+      "bytes": 209084,
       "cards": 16,
       "columns": 10,
       "rows": 2,
       "blanks": 4,
       "cellPx": [
-        300,
-        420
+        600,
+        840
       ],
       "sheetPx": [
-        3000,
-        840
+        6000,
+        1680
       ],
       "back": "back-enemy",
       "kind": "boss",
@@ -788,20 +788,20 @@
       "name": "boss-reflection",
       "title": "THE REFLECTION — boss deck",
       "file": "boss-reflection.png",
-      "published": "boss-reflection.cf1ee15b.png",
-      "sha": "cf1ee15b",
-      "bytes": 101089,
+      "published": "boss-reflection.580e6710.png",
+      "sha": "580e6710",
+      "bytes": 236092,
       "cards": 16,
       "columns": 10,
       "rows": 2,
       "blanks": 4,
       "cellPx": [
-        300,
-        420
+        600,
+        840
       ],
       "sheetPx": [
-        3000,
-        840
+        6000,
+        1680
       ],
       "back": "back-enemy",
       "kind": "boss",
@@ -811,20 +811,20 @@
       "name": "boss-thread",
       "title": "THE THREAD — boss deck",
       "file": "boss-thread.png",
-      "published": "boss-thread.6db065d9.png",
-      "sha": "6db065d9",
-      "bytes": 95162,
+      "published": "boss-thread.85ef7929.png",
+      "sha": "85ef7929",
+      "bytes": 256383,
       "cards": 16,
       "columns": 10,
       "rows": 2,
       "blanks": 4,
       "cellPx": [
-        300,
-        420
+        600,
+        840
       ],
       "sheetPx": [
-        3000,
-        840
+        6000,
+        1680
       ],
       "back": "back-enemy",
       "kind": "boss",
@@ -834,20 +834,20 @@
       "name": "boss-thread-curses",
       "title": "THE THREAD — Knots (player back)",
       "file": "boss-thread-curses.png",
-      "published": "boss-thread-curses.e9c02047.png",
-      "sha": "e9c02047",
-      "bytes": 38901,
+      "published": "boss-thread-curses.01f5249d.png",
+      "sha": "01f5249d",
+      "bytes": 96778,
       "cards": 6,
       "columns": 6,
       "rows": 1,
       "blanks": 0,
       "cellPx": [
-        300,
-        420
+        600,
+        840
       ],
       "sheetPx": [
-        1800,
-        420
+        3600,
+        840
       ],
       "back": "back-player",
       "kind": "boss",
@@ -857,20 +857,20 @@
       "name": "boss-advisor",
       "title": "THE ADVISOR — boss deck",
       "file": "boss-advisor.png",
-      "published": "boss-advisor.304ba610.png",
-      "sha": "304ba610",
-      "bytes": 102184,
+      "published": "boss-advisor.bfcb7b24.png",
+      "sha": "bfcb7b24",
+      "bytes": 251190,
       "cards": 16,
       "columns": 10,
       "rows": 2,
       "blanks": 4,
       "cellPx": [
-        300,
-        420
+        600,
+        840
       ],
       "sheetPx": [
-        3000,
-        840
+        6000,
+        1680
       ],
       "back": "back-enemy",
       "kind": "boss",
@@ -880,20 +880,20 @@
       "name": "boss-advisor-curses",
       "title": "THE ADVISOR — Whispers (player back)",
       "file": "boss-advisor-curses.png",
-      "published": "boss-advisor-curses.2aaabe04.png",
-      "sha": "2aaabe04",
-      "bytes": 36546,
+      "published": "boss-advisor-curses.3ea5f8dc.png",
+      "sha": "3ea5f8dc",
+      "bytes": 89345,
       "cards": 6,
       "columns": 6,
       "rows": 1,
       "blanks": 0,
       "cellPx": [
-        300,
-        420
+        600,
+        840
       ],
       "sheetPx": [
-        1800,
-        420
+        3600,
+        840
       ],
       "back": "back-player",
       "kind": "boss",
@@ -903,20 +903,20 @@
       "name": "enemy-base-pool",
       "title": "enemy-base-pool",
       "file": "enemy-base-pool.png",
-      "published": "enemy-base-pool.d82016a8.png",
-      "sha": "d82016a8",
-      "bytes": 802565,
+      "published": "enemy-base-pool.b54ee4f1.png",
+      "sha": "b54ee4f1",
+      "bytes": 2248193,
       "cards": 68,
       "columns": 10,
       "rows": 7,
       "blanks": 2,
       "cellPx": [
-        300,
-        420
+        600,
+        840
       ],
       "sheetPx": [
-        3000,
-        2940
+        6000,
+        5880
       ],
       "back": "back-enemy",
       "kind": "enemy",
@@ -926,20 +926,20 @@
       "name": "enemy-brood-minions",
       "title": "enemy-brood-minions",
       "file": "enemy-brood-minions.png",
-      "published": "enemy-brood-minions.15a5483c.png",
-      "sha": "15a5483c",
-      "bytes": 252264,
+      "published": "enemy-brood-minions.9fb8349e.png",
+      "sha": "9fb8349e",
+      "bytes": 769682,
       "cards": 42,
       "columns": 10,
       "rows": 5,
       "blanks": 8,
       "cellPx": [
-        300,
-        420
+        600,
+        840
       ],
       "sheetPx": [
-        3000,
-        2100
+        6000,
+        4200
       ],
       "back": "back-enemy",
       "kind": "enemy",
@@ -949,20 +949,20 @@
       "name": "back-player",
       "title": "Player back (presets, Koinē, allies)",
       "file": "back-player.png",
-      "published": "back-player.0aeaf839.png",
-      "sha": "0aeaf839",
-      "bytes": 89950,
+      "published": "back-player.cdc0f75f.png",
+      "sha": "cdc0f75f",
+      "bytes": 258794,
       "cards": 1,
       "columns": 1,
       "rows": 1,
       "blanks": 0,
       "cellPx": [
-        300,
-        420
+        600,
+        840
       ],
       "sheetPx": [
-        300,
-        420
+        600,
+        840
       ],
       "back": null,
       "kind": "back",
@@ -972,20 +972,20 @@
       "name": "back-sig",
       "title": "Signature Skill back (mini-US)",
       "file": "back-sig.png",
-      "published": "back-sig.b7811a82.png",
-      "sha": "b7811a82",
-      "bytes": 54283,
+      "published": "back-sig.f2823cf5.png",
+      "sha": "f2823cf5",
+      "bytes": 150463,
       "cards": 1,
       "columns": 1,
       "rows": 1,
       "blanks": 0,
       "cellPx": [
-        210,
-        300
+        420,
+        600
       ],
       "sheetPx": [
-        210,
-        300
+        420,
+        600
       ],
       "back": null,
       "kind": "back",
@@ -995,20 +995,20 @@
       "name": "back-character",
       "title": "back-character",
       "file": "back-character.png",
-      "published": "back-character.d985ed4b.png",
-      "sha": "d985ed4b",
-      "bytes": 85971,
+      "published": "back-character.e68fc698.png",
+      "sha": "e68fc698",
+      "bytes": 240142,
       "cards": 1,
       "columns": 1,
       "rows": 1,
       "blanks": 0,
       "cellPx": [
-        300,
-        420
+        600,
+        840
       ],
       "sheetPx": [
-        300,
-        420
+        600,
+        840
       ],
       "back": null,
       "kind": "back",
@@ -1018,20 +1018,20 @@
       "name": "back-enemy",
       "title": "Enemy back (enemy decks, minions)",
       "file": "back-enemy.png",
-      "published": "back-enemy.1b49ee5b.png",
-      "sha": "1b49ee5b",
-      "bytes": 87320,
+      "published": "back-enemy.abacf5fb.png",
+      "sha": "abacf5fb",
+      "bytes": 237928,
       "cards": 1,
       "columns": 1,
       "rows": 1,
       "blanks": 0,
       "cellPx": [
-        300,
-        420
+        600,
+        840
       ],
       "sheetPx": [
-        300,
-        420
+        600,
+        840
       ],
       "back": null,
       "kind": "back",
@@ -1041,20 +1041,20 @@
       "name": "back-exploration",
       "title": "Encounter-deck back (tarot — exploration AND enemy encounters, excluding story beats)",
       "file": "back-exploration.png",
-      "published": "back-exploration.ec238844.png",
-      "sha": "ec238844",
-      "bytes": 131962,
+      "published": "back-exploration.515e54b3.png",
+      "sha": "515e54b3",
+      "bytes": 373844,
       "cards": 1,
       "columns": 1,
       "rows": 1,
       "blanks": 0,
       "cellPx": [
-        330,
-        570
+        660,
+        1140
       ],
       "sheetPx": [
-        330,
-        570
+        660,
+        1140
       ],
       "back": null,
       "kind": "back",
@@ -1064,20 +1064,20 @@
       "name": "back-story",
       "title": "Story-beat back (tarot — rides in the run-deck, but its own back, 2026-08-16)",
       "file": "back-story.png",
-      "published": "back-story.b8675173.png",
-      "sha": "b8675173",
-      "bytes": 122971,
+      "published": "back-story.b98f759a.png",
+      "sha": "b98f759a",
+      "bytes": 359038,
       "cards": 1,
       "columns": 1,
       "rows": 1,
       "blanks": 0,
       "cellPx": [
-        330,
-        570
+        660,
+        1140
       ],
       "sheetPx": [
-        330,
-        570
+        660,
+        1140
       ],
       "back": null,
       "kind": "back",
@@ -1087,20 +1087,20 @@
       "name": "back-boss",
       "title": "Boss identity-card back (3.5x5)",
       "file": "back-boss.png",
-      "published": "back-boss.b04d2b6f.png",
-      "sha": "b04d2b6f",
-      "bytes": 171903,
+      "published": "back-boss.b113a210.png",
+      "sha": "b113a210",
+      "bytes": 475323,
       "cards": 1,
       "columns": 1,
       "rows": 1,
       "blanks": 0,
       "cellPx": [
-        600,
-        420
+        1200,
+        840
       ],
       "sheetPx": [
-        600,
-        420
+        1200,
+        840
       ],
       "back": null,
       "kind": "back",
@@ -1110,20 +1110,20 @@
       "name": "tile-surge-chip",
       "title": "SURGE Meter dial",
       "file": "tile-surge-chip.png",
-      "published": "tile-surge-chip.9fe25cee.png",
-      "sha": "9fe25cee",
-      "bytes": 84560,
+      "published": "tile-surge-chip.5c36b47e.png",
+      "sha": "5c36b47e",
+      "bytes": 192665,
       "cards": 1,
       "columns": 1,
       "rows": 1,
       "blanks": 0,
       "cellPx": [
-        750,
-        750
+        1500,
+        1500
       ],
       "sheetPx": [
-        750,
-        750
+        1500,
+        1500
       ],
       "back": null,
       "kind": "tile",
@@ -1133,20 +1133,20 @@
       "name": "tile-surge-pointer",
       "title": "SURGE Meter pointer",
       "file": "tile-surge-pointer.png",
-      "published": "tile-surge-pointer.89218ec9.png",
-      "sha": "89218ec9",
-      "bytes": 7760,
+      "published": "tile-surge-pointer.7736ca11.png",
+      "sha": "7736ca11",
+      "bytes": 19667,
       "cards": 1,
       "columns": 1,
       "rows": 1,
       "blanks": 0,
       "cellPx": [
-        375,
-        375
+        750,
+        750
       ],
       "sheetPx": [
-        375,
-        375
+        750,
+        750
       ],
       "back": null,
       "kind": "tile",
@@ -1156,20 +1156,20 @@
       "name": "tile-token-guard",
       "title": "GUARD token (1)",
       "file": "tile-token-guard.png",
-      "published": "tile-token-guard.14ace057.png",
-      "sha": "14ace057",
-      "bytes": 5810,
+      "published": "tile-token-guard.c2f98d94.png",
+      "sha": "c2f98d94",
+      "bytes": 12616,
       "cards": 1,
       "columns": 1,
       "rows": 1,
       "blanks": 0,
       "cellPx": [
-        375,
-        375
+        750,
+        750
       ],
       "sheetPx": [
-        375,
-        375
+        750,
+        750
       ],
       "back": null,
       "kind": "tile",
@@ -1179,20 +1179,20 @@
       "name": "tile-token-guard-3",
       "title": "GUARD token (3)",
       "file": "tile-token-guard-3.png",
-      "published": "tile-token-guard-3.00c7c7f4.png",
-      "sha": "00c7c7f4",
-      "bytes": 20832,
+      "published": "tile-token-guard-3.7e07f255.png",
+      "sha": "7e07f255",
+      "bytes": 50022,
       "cards": 1,
       "columns": 1,
       "rows": 1,
       "blanks": 0,
       "cellPx": [
-        375,
-        375
+        750,
+        750
       ],
       "sheetPx": [
-        375,
-        375
+        750,
+        750
       ],
       "back": null,
       "kind": "tile",
@@ -1202,20 +1202,20 @@
       "name": "tile-token-toll",
       "title": "TOLL token (1)",
       "file": "tile-token-toll.png",
-      "published": "tile-token-toll.fc16ca3d.png",
-      "sha": "fc16ca3d",
-      "bytes": 17581,
+      "published": "tile-token-toll.1f11202a.png",
+      "sha": "1f11202a",
+      "bytes": 37095,
       "cards": 1,
       "columns": 1,
       "rows": 1,
       "blanks": 0,
       "cellPx": [
-        375,
-        375
+        750,
+        750
       ],
       "sheetPx": [
-        375,
-        375
+        750,
+        750
       ],
       "back": null,
       "kind": "tile",
@@ -1225,20 +1225,20 @@
       "name": "tile-token-toll-3",
       "title": "TOLL token (3)",
       "file": "tile-token-toll-3.png",
-      "published": "tile-token-toll-3.ae854681.png",
-      "sha": "ae854681",
-      "bytes": 25342,
+      "published": "tile-token-toll-3.9bef858d.png",
+      "sha": "9bef858d",
+      "bytes": 56372,
       "cards": 1,
       "columns": 1,
       "rows": 1,
       "blanks": 0,
       "cellPx": [
-        375,
-        375
+        750,
+        750
       ],
       "sheetPx": [
-        375,
-        375
+        750,
+        750
       ],
       "back": null,
       "kind": "tile",
@@ -1248,20 +1248,20 @@
       "name": "tile-token-blight",
       "title": "BLIGHT token (1)",
       "file": "tile-token-blight.png",
-      "published": "tile-token-blight.f6975e84.png",
-      "sha": "f6975e84",
-      "bytes": 3625,
+      "published": "tile-token-blight.c573e095.png",
+      "sha": "c573e095",
+      "bytes": 11017,
       "cards": 1,
       "columns": 1,
       "rows": 1,
       "blanks": 0,
       "cellPx": [
-        375,
-        375
+        750,
+        750
       ],
       "sheetPx": [
-        375,
-        375
+        750,
+        750
       ],
       "back": null,
       "kind": "tile",
@@ -1271,20 +1271,20 @@
       "name": "tile-token-blight-3",
       "title": "BLIGHT token (3)",
       "file": "tile-token-blight-3.png",
-      "published": "tile-token-blight-3.1bc7fbce.png",
-      "sha": "1bc7fbce",
-      "bytes": 14994,
+      "published": "tile-token-blight-3.11b7c541.png",
+      "sha": "11b7c541",
+      "bytes": 36468,
       "cards": 1,
       "columns": 1,
       "rows": 1,
       "blanks": 0,
       "cellPx": [
-        375,
-        375
+        750,
+        750
       ],
       "sheetPx": [
-        375,
-        375
+        750,
+        750
       ],
       "back": null,
       "kind": "tile",
@@ -1294,20 +1294,20 @@
       "name": "tile-token-thorns",
       "title": "THORNS token (1)",
       "file": "tile-token-thorns.png",
-      "published": "tile-token-thorns.9d7bf33e.png",
-      "sha": "9d7bf33e",
-      "bytes": 12350,
+      "published": "tile-token-thorns.22f4672a.png",
+      "sha": "22f4672a",
+      "bytes": 26786,
       "cards": 1,
       "columns": 1,
       "rows": 1,
       "blanks": 0,
       "cellPx": [
-        375,
-        375
+        750,
+        750
       ],
       "sheetPx": [
-        375,
-        375
+        750,
+        750
       ],
       "back": null,
       "kind": "tile",
@@ -1317,20 +1317,20 @@
       "name": "tile-token-thorns-3",
       "title": "THORNS token (3)",
       "file": "tile-token-thorns-3.png",
-      "published": "tile-token-thorns-3.f0af2128.png",
-      "sha": "f0af2128",
-      "bytes": 21904,
+      "published": "tile-token-thorns-3.fe5693fa.png",
+      "sha": "fe5693fa",
+      "bytes": 50728,
       "cards": 1,
       "columns": 1,
       "rows": 1,
       "blanks": 0,
       "cellPx": [
-        375,
-        375
+        750,
+        750
       ],
       "sheetPx": [
-        375,
-        375
+        750,
+        750
       ],
       "back": null,
       "kind": "tile",
@@ -1340,20 +1340,20 @@
       "name": "tile-token-stagger",
       "title": "STAGGER token (1)",
       "file": "tile-token-stagger.png",
-      "published": "tile-token-stagger.0b7b6830.png",
-      "sha": "0b7b6830",
-      "bytes": 21239,
+      "published": "tile-token-stagger.4ac674e8.png",
+      "sha": "4ac674e8",
+      "bytes": 46220,
       "cards": 1,
       "columns": 1,
       "rows": 1,
       "blanks": 0,
       "cellPx": [
-        375,
-        375
+        750,
+        750
       ],
       "sheetPx": [
-        375,
-        375
+        750,
+        750
       ],
       "back": null,
       "kind": "tile",
@@ -1363,20 +1363,20 @@
       "name": "tile-token-stagger-3",
       "title": "STAGGER token (3)",
       "file": "tile-token-stagger-3.png",
-      "published": "tile-token-stagger-3.762e095d.png",
-      "sha": "762e095d",
-      "bytes": 28098,
+      "published": "tile-token-stagger-3.8d31dba0.png",
+      "sha": "8d31dba0",
+      "bytes": 63574,
       "cards": 1,
       "columns": 1,
       "rows": 1,
       "blanks": 0,
       "cellPx": [
-        375,
-        375
+        750,
+        750
       ],
       "sheetPx": [
-        375,
-        375
+        750,
+        750
       ],
       "back": null,
       "kind": "tile",
@@ -1386,20 +1386,20 @@
       "name": "tile-token-progress",
       "title": "PROGRESS token (1)",
       "file": "tile-token-progress.png",
-      "published": "tile-token-progress.8179d1fc.png",
-      "sha": "8179d1fc",
-      "bytes": 17998,
+      "published": "tile-token-progress.05923905.png",
+      "sha": "05923905",
+      "bytes": 38660,
       "cards": 1,
       "columns": 1,
       "rows": 1,
       "blanks": 0,
       "cellPx": [
-        375,
-        375
+        750,
+        750
       ],
       "sheetPx": [
-        375,
-        375
+        750,
+        750
       ],
       "back": null,
       "kind": "tile",
@@ -1409,20 +1409,20 @@
       "name": "tile-token-progress-3",
       "title": "PROGRESS token (3)",
       "file": "tile-token-progress-3.png",
-      "published": "tile-token-progress-3.d1205af4.png",
-      "sha": "d1205af4",
-      "bytes": 23307,
+      "published": "tile-token-progress-3.59f1c0bc.png",
+      "sha": "59f1c0bc",
+      "bytes": 52171,
       "cards": 1,
       "columns": 1,
       "rows": 1,
       "blanks": 0,
       "cellPx": [
-        375,
-        375
+        750,
+        750
       ],
       "sheetPx": [
-        375,
-        375
+        750,
+        750
       ],
       "back": null,
       "kind": "tile",
@@ -1432,20 +1432,20 @@
       "name": "tile-token-evade",
       "title": "EVADE token (1)",
       "file": "tile-token-evade.png",
-      "published": "tile-token-evade.bc353658.png",
-      "sha": "bc353658",
-      "bytes": 19080,
+      "published": "tile-token-evade.94ed0afd.png",
+      "sha": "94ed0afd",
+      "bytes": 40761,
       "cards": 1,
       "columns": 1,
       "rows": 1,
       "blanks": 0,
       "cellPx": [
-        375,
-        375
+        750,
+        750
       ],
       "sheetPx": [
-        375,
-        375
+        750,
+        750
       ],
       "back": null,
       "kind": "tile",
@@ -1455,20 +1455,20 @@
       "name": "tile-token-evade-3",
       "title": "EVADE token (3)",
       "file": "tile-token-evade-3.png",
-      "published": "tile-token-evade-3.a3a1f0ca.png",
-      "sha": "a3a1f0ca",
-      "bytes": 25068,
+      "published": "tile-token-evade-3.bd420fd1.png",
+      "sha": "bd420fd1",
+      "bytes": 56141,
       "cards": 1,
       "columns": 1,
       "rows": 1,
       "blanks": 0,
       "cellPx": [
-        375,
-        375
+        750,
+        750
       ],
       "sheetPx": [
-        375,
-        375
+        750,
+        750
       ],
       "back": null,
       "kind": "tile",
@@ -1478,20 +1478,20 @@
       "name": "die-red",
       "title": "RED die (Body)",
       "file": "die-red.png",
-      "published": "die-red.b8937376.png",
-      "sha": "b8937376",
-      "bytes": 4723,
+      "published": "die-red.46d8ad58.png",
+      "sha": "46d8ad58",
+      "bytes": 11489,
       "cards": 6,
       "columns": 6,
       "rows": 1,
       "blanks": 0,
       "cellPx": [
-        120,
-        120
+        240,
+        240
       ],
       "sheetPx": [
-        720,
-        120
+        1440,
+        240
       ],
       "back": null,
       "kind": "die",
@@ -1501,20 +1501,20 @@
       "name": "die-blue",
       "title": "BLUE die (Mind)",
       "file": "die-blue.png",
-      "published": "die-blue.349d73ce.png",
-      "sha": "349d73ce",
-      "bytes": 4628,
+      "published": "die-blue.40d9f2bd.png",
+      "sha": "40d9f2bd",
+      "bytes": 11281,
       "cards": 6,
       "columns": 6,
       "rows": 1,
       "blanks": 0,
       "cellPx": [
-        120,
-        120
+        240,
+        240
       ],
       "sheetPx": [
-        720,
-        120
+        1440,
+        240
       ],
       "back": null,
       "kind": "die",
@@ -1524,20 +1524,20 @@
       "name": "die-purple",
       "title": "PURPLE die (Heart)",
       "file": "die-purple.png",
-      "published": "die-purple.8f6e8aba.png",
-      "sha": "8f6e8aba",
-      "bytes": 4534,
+      "published": "die-purple.6ab1a69e.png",
+      "sha": "6ab1a69e",
+      "bytes": 11144,
       "cards": 6,
       "columns": 6,
       "rows": 1,
       "blanks": 0,
       "cellPx": [
-        120,
-        120
+        240,
+        240
       ],
       "sheetPx": [
-        720,
-        120
+        1440,
+        240
       ],
       "back": null,
       "kind": "die",
@@ -1547,20 +1547,20 @@
       "name": "die-gold",
       "title": "GOLD die (wild)",
       "file": "die-gold.png",
-      "published": "die-gold.bd2f2f77.png",
-      "sha": "bd2f2f77",
-      "bytes": 4636,
+      "published": "die-gold.512efbe3.png",
+      "sha": "512efbe3",
+      "bytes": 11310,
       "cards": 6,
       "columns": 6,
       "rows": 1,
       "blanks": 0,
       "cellPx": [
-        120,
-        120
+        240,
+        240
       ],
       "sheetPx": [
-        720,
-        120
+        1440,
+        240
       ],
       "back": null,
       "kind": "die",
@@ -1570,20 +1570,20 @@
       "name": "die-red-up",
       "title": "RED-UP die (Body, upgraded)",
       "file": "die-red-up.png",
-      "published": "die-red-up.7849363d.png",
-      "sha": "7849363d",
-      "bytes": 4787,
+      "published": "die-red-up.329dcccd.png",
+      "sha": "329dcccd",
+      "bytes": 11646,
       "cards": 6,
       "columns": 6,
       "rows": 1,
       "blanks": 0,
       "cellPx": [
-        120,
-        120
+        240,
+        240
       ],
       "sheetPx": [
-        720,
-        120
+        1440,
+        240
       ],
       "back": null,
       "kind": "die",
@@ -1593,20 +1593,20 @@
       "name": "die-blue-up",
       "title": "BLUE-UP die (Mind, upgraded)",
       "file": "die-blue-up.png",
-      "published": "die-blue-up.af515805.png",
-      "sha": "af515805",
-      "bytes": 4681,
+      "published": "die-blue-up.987d9316.png",
+      "sha": "987d9316",
+      "bytes": 11429,
       "cards": 6,
       "columns": 6,
       "rows": 1,
       "blanks": 0,
       "cellPx": [
-        120,
-        120
+        240,
+        240
       ],
       "sheetPx": [
-        720,
-        120
+        1440,
+        240
       ],
       "back": null,
       "kind": "die",
@@ -1616,20 +1616,20 @@
       "name": "die-purple-up",
       "title": "PURPLE-UP die (Heart, upgraded)",
       "file": "die-purple-up.png",
-      "published": "die-purple-up.5d221055.png",
-      "sha": "5d221055",
-      "bytes": 4586,
+      "published": "die-purple-up.c99910b2.png",
+      "sha": "c99910b2",
+      "bytes": 11191,
       "cards": 6,
       "columns": 6,
       "rows": 1,
       "blanks": 0,
       "cellPx": [
-        120,
-        120
+        240,
+        240
       ],
       "sheetPx": [
-        720,
-        120
+        1440,
+        240
       ],
       "back": null,
       "kind": "die",
@@ -1639,9 +1639,9 @@
       "name": "table-surface",
       "title": "table-surface",
       "file": "table-surface.png",
-      "published": "table-surface.12b7314e.png",
-      "sha": "12b7314e",
-      "bytes": 3407073,
+      "published": "table-surface.9bcd4a37.png",
+      "sha": "9bcd4a37",
+      "bytes": 3407862,
       "cards": 1,
       "columns": 1,
       "rows": 1,
@@ -1662,9 +1662,9 @@
       "name": "die-red-uv",
       "title": "die-red-uv",
       "file": "die-red-uv.png",
-      "published": "die-red-uv.47ca81b4.png",
-      "sha": "47ca81b4",
-      "bytes": 78504,
+      "published": "die-red-uv.b0d6207e.png",
+      "sha": "b0d6207e",
+      "bytes": 78539,
       "cards": 6,
       "columns": 3,
       "rows": 2,
@@ -1685,9 +1685,9 @@
       "name": "die-blue-uv",
       "title": "die-blue-uv",
       "file": "die-blue-uv.png",
-      "published": "die-blue-uv.fcccfa5a.png",
-      "sha": "fcccfa5a",
-      "bytes": 75639,
+      "published": "die-blue-uv.f918bebb.png",
+      "sha": "f918bebb",
+      "bytes": 75567,
       "cards": 6,
       "columns": 3,
       "rows": 2,
@@ -1708,9 +1708,9 @@
       "name": "die-purple-uv",
       "title": "die-purple-uv",
       "file": "die-purple-uv.png",
-      "published": "die-purple-uv.5a3c7c55.png",
-      "sha": "5a3c7c55",
-      "bytes": 75472,
+      "published": "die-purple-uv.498a8112.png",
+      "sha": "498a8112",
+      "bytes": 76027,
       "cards": 6,
       "columns": 3,
       "rows": 2,
@@ -1731,9 +1731,9 @@
       "name": "die-gold-uv",
       "title": "die-gold-uv",
       "file": "die-gold-uv.png",
-      "published": "die-gold-uv.aae23ef1.png",
-      "sha": "aae23ef1",
-      "bytes": 72715,
+      "published": "die-gold-uv.d2e29813.png",
+      "sha": "d2e29813",
+      "bytes": 71578,
       "cards": 6,
       "columns": 3,
       "rows": 2,
@@ -1754,9 +1754,9 @@
       "name": "die-red-up-uv",
       "title": "die-red-up-uv",
       "file": "die-red-up-uv.png",
-      "published": "die-red-up-uv.1e0d4d95.png",
-      "sha": "1e0d4d95",
-      "bytes": 75537,
+      "published": "die-red-up-uv.551c1e42.png",
+      "sha": "551c1e42",
+      "bytes": 75515,
       "cards": 6,
       "columns": 3,
       "rows": 2,
@@ -1777,9 +1777,9 @@
       "name": "die-blue-up-uv",
       "title": "die-blue-up-uv",
       "file": "die-blue-up-uv.png",
-      "published": "die-blue-up-uv.957993be.png",
-      "sha": "957993be",
-      "bytes": 75386,
+      "published": "die-blue-up-uv.15d9e6f0.png",
+      "sha": "15d9e6f0",
+      "bytes": 75765,
       "cards": 6,
       "columns": 3,
       "rows": 2,
@@ -1800,9 +1800,9 @@
       "name": "die-purple-up-uv",
       "title": "die-purple-up-uv",
       "file": "die-purple-up-uv.png",
-      "published": "die-purple-up-uv.4e6e4adf.png",
-      "sha": "4e6e4adf",
-      "bytes": 75724,
+      "published": "die-purple-up-uv.720775b9.png",
+      "sha": "720775b9",
+      "bytes": 76760,
       "cards": 6,
       "columns": 3,
       "rows": 2,
